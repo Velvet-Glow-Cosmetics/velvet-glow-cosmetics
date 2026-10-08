@@ -1,0 +1,2157 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" id="html-tag">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>شركة غلا للكوزمتكس | أفضل منتجات التجميل والعناية بالبشرة في الأردن</title>
+    <meta name="description" content="اكتشف أحدث منتجات شركة غلا للكوزمتكس في الأردن. تسوق أفضل مستحضرات التجميل، العناية بالبشرة، العناية بالشعر، والمكياج العصري بأعلى جودة.">
+    <meta name="keywords" content="شركة غلا للكوزمتكس, كوزمتكس الأردن, مستحضرات تجميل عمان, العناية بالبشرة, مكياج, العناية بالشعر">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <link rel="canonical" href="https://www.ghala-logistics.com/">
+
+    <!-- Favicon -->
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <!-- Social Media / Open Graph Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ar_JO">
+    <meta property="og:site_name" content="غلا للكوزمتكس">
+    <meta property="og:title" content="غلا للكوزمتكس | منتجات التجميل والعناية">
+    <meta property="og:description" content="اكتشف أحدث منتجات شركة غلا للكوزمتكس. جودة عالية ومستحضرات تجميل فاخرة.">
+    <meta property="og:image" content="e3f9af3e-eefb-41cf-8d4b-931792385a18.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:url" content="https://www.ghala-logistics.com/">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="غلا للكوزمتكس بالأردن">
+    <meta name="twitter:description" content="أحدث منتجات شركة غلا للكوزمتكس والعناية بالبشرة والشعر.">
+    <meta name="twitter:image" content="e3f9af3e-eefb-41cf-8d4b-931792385a18.jpg">
+
+    <!-- Preconnect & Optimization -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="https://images.unsplash.com">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&family=Montserrat:wght@700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" media="print" onload="this.media='all'">
+
+    <!-- JSON-LD Structured Data Schemas for Google -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://www.ghala-logistics.com/#organization",
+          "name": "غلا للكوزمتكس",
+          "url": "https://www.ghala-logistics.com/",
+          "logo": "c670106e-9a80-4b0c-8a4c-f19ed33c4fbd.jpg",
+          "sameAs": [
+            "https://www.facebook.com/",
+            "https://www.instagram.com/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.ghala-logistics.com/#website",
+          "url": "https://www.ghala-logistics.com/",
+          "name": "غلا للكوزمتكس",
+          "publisher": { "@id": "https://www.ghala-logistics.com/#organization" },
+          "inLanguage": "ar-JO"
+        },
+        {
+          "@type": "BeautySalon",
+          "@id": "https://www.ghala-logistics.com/#store",
+          "name": "غلا للكوزمتكس",
+          "image": "e3f9af3e-eefb-41cf-8d4b-931792385a18.jpg",
+          "url": "https://www.ghala-logistics.com/",
+          "telephone": "+962700000000",
+          "priceRange": "JOD",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "عمان",
+            "addressCountry": "JO"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 31.9566,
+            "longitude": 35.9457
+          },
+          "description": "متجر أردني متخصص في تقديم أحدث منتجات شركة غلا للكوزمتكس والعناية الشخصية."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://www.ghala-logistics.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المنتجات",
+              "item": "https://www.ghala-logistics.com/#store-products"
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+    
+    <style>
+        :root {
+            --primary-color: #d88a8a;
+            --primary-gradient: linear-gradient(135deg, #e49b9b 0%, #c46d6d 50%, #8c3a3a 100%);
+            --secondary-color: #1a0f12; 
+            --card-bg: #26161a;
+            --card-bg-hover: #331e23;
+            --text-color: #fcf8f8; 
+            --light-bg: #12090b; 
+            --shadow: 0 20px 40px rgba(0, 0, 0, 0.8); 
+            --accent-color: #f1b2b2;
+            --success-color: #10b981;
+            --border-color: rgba(216, 138, 138, 0.3);
+            --border-glow: rgba(216, 138, 138, 0.6);
+            --glass-bg: rgba(38, 22, 26, 0.85);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --font-brand: 'Montserrat', sans-serif;
+        }
+
+        html { scroll-behavior: smooth; }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Cairo', sans-serif; }
+        body { line-height: 1.6; color: var(--text-color); background-color: var(--light-bg); padding-top: 90px; overflow-x: hidden; }
+
+        header {
+            background: rgba(26, 15, 18, 0.95);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            padding: 0 6%;
+            display: flex;
+            justify-content: space-between; 
+            align-items: center;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.9);
+            height: 90px;
+            border-bottom: 1px solid var(--border-color); 
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        html[dir="rtl"] body { padding-top: 90px; }
+        html[dir="rtl"] header { flex-direction: row-reverse; }
+        html[dir="ltr"] header { flex-direction: row; }
+
+        .header-right-content { display: flex; align-items: center; gap: 20px; }
+        html[dir="rtl"] .header-right-content { flex-direction: row-reverse; }
+        html[dir="ltr"] .header-right-content { flex-direction: row; }
+
+        .logo img { height: 60px; width: 60px; border-radius: 50%; padding: 2px; display: block; border: 2px solid var(--primary-color); object-fit: cover; background: #fff; transition: 0.3s; }
+        .logo img:hover { transform: scale(1.08); box-shadow: 0 0 15px var(--primary-color); }
+        .menu-logo-container { display: flex; align-items: center; gap: 15px; }
+        .menu-logo-img { height: 55px; width: 55px; object-fit: cover; border-radius: 50%; border: 2px solid var(--primary-color); box-shadow: 0 0 10px var(--border-color); background: #fff; }
+        .menu-toggle { font-size: 1.8rem; cursor: pointer; color: var(--primary-color); padding: 8px; transition: 0.3s; background: rgba(216, 138, 138, 0.1); border-radius: 10px; border: 1px solid var(--border-color); }
+        .menu-toggle:hover { transform: scale(1.1); background: var(--primary-color); color: #fff; }
+
+        .header-left-actions { display: flex; align-items: center; gap: 12px; }
+        
+        .header-icon-btn { color: #ffffff; font-size: 1.1rem; position: relative; cursor: pointer; transition: all 0.3s ease; text-decoration: none; width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; background: var(--glass-bg); border-radius: 12px; border: 1px solid var(--glass-border); }
+        .header-icon-btn:hover { color: #fff; background: var(--primary-color); border-color: var(--primary-color); transform: translateY(-3px); box-shadow: 0 5px 15px rgba(216, 138, 138, 0.5); }
+        .header-icon-btn .badge {
+            position: absolute;
+            top: -6px;
+            right: -6px;
+            background: var(--primary-color);
+            color: white;
+            font-size: 0.75rem;
+            padding: 2px 7px;
+            border-radius: 50%;
+            font-weight: 800;
+            box-shadow: 0 0 10px rgba(216, 138, 138, 0.8);
+        }
+
+        .header-btn-link { text-decoration: none; font-weight: 800; font-size: 0.85rem; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; cursor: pointer; padding: 10px 18px; border-radius: 14px; background: linear-gradient(135deg, rgba(216, 138, 138, 0.15), rgba(38, 22, 26, 0.9)); border: 1px solid rgba(216, 138, 138, 0.4); backdrop-filter: blur(10px); }
+        .header-btn-link:hover { opacity: 1; transform: translateY(-3px); border-color: var(--primary-color); background: var(--primary-gradient); color: #fff !important; box-shadow: 0 6px 20px rgba(216, 138, 138, 0.4); }
+
+        .hero {
+            position: relative;
+            min-height: 75vh;
+            background: url('e3f9af3e-eefb-41cf-8d4b-931792385a18.jpg');
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat;
+            display: flex; 
+            flex-direction: column;
+            justify-content: center; 
+            align-items: center;
+            color: #fff; 
+            text-align: center; 
+            padding: 60px 20px;
+            border-bottom: 1px solid var(--border-color);
+            overflow: hidden;
+        }
+
+        .hero-agency-container {
+            position: relative;
+            z-index: 2;
+            background: rgba(26, 15, 18, 0.88);
+            backdrop-filter: blur(15px);
+            border: 1px solid var(--border-color);
+            padding: 30px;
+            border-radius: 24px;
+            max-width: 650px;
+            width: 90%;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.8);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .hero-agency-badges {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 25px;
+            flex-wrap: wrap;
+        }
+
+        .hero-badge-box {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.03);
+            padding: 15px;
+            border-radius: 16px;
+            border: 1px solid var(--glass-border);
+            transition: 0.3s;
+        }
+
+        .hero-badge-box:hover {
+            border-color: var(--primary-color);
+            transform: translateY(-5px);
+        }
+
+        .hero-badge-box img {
+            width: 110px;
+            height: 110px;
+            object-fit: cover;
+            border-radius: 50%;
+            border: 3px solid var(--primary-color);
+            box-shadow: 0 0 15px rgba(216, 138, 138, 0.4);
+            margin-bottom: 10px;
+            background: #fff;
+        }
+
+        .hero-badge-box span {
+            font-size: 0.95rem;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .agency-connector {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: var(--primary-color);
+            font-size: 1.2rem;
+            font-weight: 800;
+            gap: 5px;
+        }
+
+        .agency-connector i {
+            background: rgba(216, 138, 138, 0.15);
+            padding: 12px;
+            border-radius: 50%;
+            border: 1px solid var(--border-color);
+            animation: pulseGlow 2s infinite;
+        }
+
+        @keyframes pulseGlow {
+            0% { box-shadow: 0 0 0 0 rgba(216, 138, 138, 0.4); }
+            70% { box-shadow: 0 0 0 12px rgba(216, 138, 138, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(216, 138, 138, 0); }
+        }
+
+        .about-company-section {
+            padding: 90px 8%;
+            background: var(--secondary-color);
+            border-bottom: 1px solid var(--border-color);
+            text-align: center;
+        }
+
+        .about-company-container {
+            max-width: 900px;
+            margin: 0 auto 60px auto;
+            background: var(--card-bg);
+            padding: 40px;
+            border-radius: 24px;
+            border: 1px solid var(--glass-border);
+            box-shadow: var(--shadow);
+        }
+
+        .about-company-container h2 {
+            color: #fff;
+            font-size: 2.2rem;
+            font-weight: 900;
+            margin-bottom: 20px;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .about-company-container p {
+            color: #ebd8d8;
+            font-size: 1.1rem;
+            line-height: 1.9;
+        }
+
+        .main-services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .main-service-card {
+            background: var(--card-bg);
+            padding: 35px 25px;
+            border-radius: 20px;
+            border: 1px solid var(--glass-border);
+            text-align: right;
+            position: relative;
+            transition: all 0.4s ease;
+            box-shadow: var(--shadow);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        html[dir="ltr"] .main-service-card { text-align: left; }
+
+        .main-service-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--primary-color);
+            background: var(--card-bg-hover);
+        }
+
+        .main-service-card .service-img-preview {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            border: 1px solid var(--border-color);
+        }
+
+        .main-service-card i {
+            font-size: 2.8rem;
+            color: var(--primary-color);
+            margin-bottom: 20px;
+            display: inline-block;
+            filter: drop-shadow(0 4px 10px rgba(216, 138, 138, 0.4));
+        }
+
+        .main-service-card h3 {
+            color: #fff;
+            font-size: 1.4rem;
+            font-weight: 800;
+            margin-bottom: 15px;
+        }
+
+        .main-service-card p {
+            color: #c9b3b3;
+            font-size: 0.98rem;
+            line-height: 1.7;
+            margin-bottom: 25px;
+        }
+
+        .main-service-btn {
+            background: transparent;
+            border: 2px solid var(--primary-color);
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: 800;
+            cursor: pointer;
+            transition: 0.3s;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .main-service-btn:hover {
+            background: var(--primary-gradient);
+            border-color: transparent;
+            box-shadow: 0 5px 15px rgba(216, 138, 138, 0.4);
+        }
+
+        .features-section { padding: 60px 8%; background: var(--light-bg); display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 30px; text-align: center; border-bottom: 1px solid var(--border-color); }
+        .feature-box { padding: 35px 25px; cursor: pointer; transition: all 0.4s ease; background: var(--card-bg); border-radius: 20px; border: 1px solid var(--glass-border); position: relative; overflow: hidden; }
+        .feature-box::after { content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 3px; background: var(--primary-gradient); opacity: 0; transition: 0.3s; }
+        .feature-box:hover { transform: translateY(-10px); border-color: var(--primary-color); background: var(--card-bg-hover); box-shadow: var(--shadow); }
+        .feature-box:hover::after { opacity: 1; }
+        .feature-box i { font-size: 3rem; color: var(--primary-color); margin-bottom: 20px; display: inline-block; filter: drop-shadow(0 4px 10px rgba(216, 138, 138, 0.4)); }
+        .feature-box h3 { font-size: 1.3rem; color: #fff; margin-bottom: 10px; font-weight: 800; }
+        .feature-box p { font-size: 0.95rem; color: #c9b3b3; line-height: 1.6; }
+
+        .products-section { padding: 90px 8%; text-align: center; background: var(--secondary-color); border-bottom: 1px solid var(--border-color); }
+        
+        .category-filter-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-bottom: 40px;
+        }
+        .filter-btn {
+            background: var(--card-bg);
+            color: #fff;
+            border: 1px solid var(--border-color);
+            padding: 12px 25px;
+            border-radius: 30px;
+            font-weight: 800;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .filter-btn:hover, .filter-btn.active {
+            background: var(--primary-gradient);
+            border-color: transparent;
+            box-shadow: 0 5px 20px rgba(216, 138, 138, 0.4);
+        }
+
+        .category-title { 
+            color: #fff; font-size: 2.2rem; font-weight: 900; margin: 40px 0 35px 0; text-align: right; border-bottom: 2px solid var(--border-color); padding-bottom: 12px; display: flex; align-items: center; gap: 15px; position: relative;
+        }
+        .category-title i { color: var(--primary-color); }
+        .category-title::after { content: ''; position: absolute; bottom: -2px; right: 0; width: 120px; height: 2px; background: var(--primary-color); box-shadow: 0 0 10px var(--primary-color); }
+        html[dir="ltr"] .category-title { text-align: left; }
+        html[dir="ltr"] .category-title::after { right: auto; left: 0; }
+
+        .products-grid { 
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); 
+            gap: 30px; 
+            margin-bottom: 60px; 
+        }
+        
+        .product-card { 
+            background: var(--card-bg);
+            padding: 22px; 
+            border-radius: 24px; 
+            transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1); 
+            border: 1px solid var(--glass-border); 
+            position: relative; 
+            overflow: hidden;
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+        .product-card:hover { transform: translateY(-12px); border-color: var(--primary-color); box-shadow: 0 20px 40px rgba(216, 138, 138, 0.25); background: var(--card-bg-hover); }
+        
+        .product-card .product-img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 16px;
+            margin-bottom: 18px;
+            transition: 0.5s ease;
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+        .product-card:hover .product-img { transform: scale(1.04); }
+
+        .product-card h3 { color: #ffffff; margin: 10px 0; font-size: 1.25rem; font-weight: 800; min-height: 58px; display: flex; align-items: center; justify-content: center; }
+        .product-card p { color: #c9b3b3; font-size: 0.9rem; margin-bottom: 20px; flex-grow: 1; line-height: 1.6; }
+        .product-card .card-price { color: #fff; font-weight: 900; font-size: 1.2rem; margin-bottom: 20px; background: var(--primary-gradient); padding: 8px 25px; border-radius: 30px; box-shadow: 0 4px 15px rgba(216, 138, 138, 0.3); }
+        
+        .card-quick-actions { display: flex; gap: 15px; margin-bottom: 20px; color: #c9b3b3; font-size: 1.1rem; }
+        .card-quick-actions i { cursor: pointer; transition: 0.3s; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background: rgba(255,255,255,0.05); border-radius: 50%; border: 1px solid rgba(255,255,255,0.08); }
+        .card-quick-actions i:hover { color: #fff; background: var(--primary-color); transform: scale(1.15); border-color: var(--primary-color); }
+
+        .card-fav-abs { position: absolute; top: 35px; right: 35px; color: #fff; background: rgba(0,0,0,0.7); backdrop-filter: blur(8px); padding: 12px; border-radius: 50%; cursor: pointer; transition: 0.3s; font-size: 1.1rem; z-index: 2; border: 1px solid rgba(255,255,255,0.15); }
+        .card-fav-abs:hover { color: var(--accent-color); transform: scale(1.2); background: #fff; }
+
+        .card-buy-btn { width: 100%; background: transparent; border: 2px solid var(--primary-color); color: #fff; padding: 14px; border-radius: 30px; font-weight: 800; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 1rem; }
+        .card-buy-btn:hover { background: var(--primary-gradient); border-color: transparent; box-shadow: 0 8px 25px rgba(216, 138, 138, 0.4); }
+
+        .testimonials { padding: 90px 8%; text-align: center; background: var(--light-bg); border-bottom: 1px solid var(--border-color); }
+        .testimonials h2 { color: #fff; margin-bottom: 50px; font-size: 2.2rem; font-weight: 900; }
+        .testimonials-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px; }
+        .testi-card { background: var(--card-bg); padding: 35px; border-radius: 20px; border: 1px solid var(--glass-border); text-align: right; position: relative; box-shadow: var(--shadow); transition: 0.3s; }
+        .testi-card:hover { transform: translateY(-5px); border-color: var(--primary-color); }
+        html[dir="ltr"] .testi-card { text-align: left; }
+        .testi-card p { font-size: 1rem; color: #ebd8d8; font-style: italic; margin-bottom: 25px; line-height: 1.8; }
+        .testi-card .testi-user { font-weight: 800; color: var(--primary-color); font-size: 1.05rem; display: flex; align-items: center; gap: 15px; }
+        .testi-card .testi-user i { font-size: 2rem; color: #8c7070; }
+
+        .delivery-zones { padding: 90px 8%; text-align: center; background: var(--secondary-color); }
+        .delivery-zones h2 { color: #fff; font-size: 2.2rem; font-weight: 900; }
+        .jordan-map-card {
+            max-width: 650px;
+            margin: 40px auto 0 auto;
+            background: var(--card-bg);
+            padding: 40px;
+            border-radius: 24px;
+            border: 1px solid var(--glass-border);
+            box-shadow: var(--shadow);
+            transition: all 0.4s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .jordan-map-card:hover {
+            transform: translateY(-8px);
+            border-color: var(--primary-color);
+            background: var(--card-bg-hover);
+        }
+        .jordan-map-icon {
+            font-size: 5.5rem;
+            color: var(--primary-color);
+            margin-bottom: 20px;
+            filter: drop-shadow(0 0 20px rgba(216, 138, 138, 0.5));
+            animation: floatIcon 3s ease-in-out infinite;
+        }
+        @keyframes floatIcon {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+        .jordan-map-card h3 {
+            color: #fff;
+            font-size: 1.6rem;
+            font-weight: 800;
+            margin-bottom: 15px;
+        }
+        .jordan-map-card p {
+            color: #c9b3b3;
+            font-size: 1rem;
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+        .jordan-cities-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+        }
+        .city-badge {
+            background: rgba(216, 138, 138, 0.1);
+            color: #fff;
+            border: 1px solid var(--border-color);
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .city-badge i {
+            color: var(--primary-color);
+            font-size: 0.8rem;
+        }
+
+        .cart-drawer {
+            position: fixed;
+            top: 0; width: 420px; max-width: 100%; height: 100%;
+            background: #1a0f12; box-shadow: -10px 0 40px rgba(0,0,0,0.9);
+            z-index: 3000;
+            transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            display: flex; flex-direction: column;
+            border-right: 1px solid var(--border-color);
+            border-left: 1px solid var(--border-color);
+        }
+        html[dir="rtl"] .cart-drawer { left: -440px; }
+        html[dir="ltr"] .cart-drawer { right: -440px; }
+        html[dir="rtl"] .cart-drawer.open { left: 0; }
+        html[dir="ltr"] .cart-drawer.open { right: 0; }
+
+        .cart-header { padding: 25px; background: var(--secondary-color); border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; }
+        .cart-header h3 { color: var(--primary-color); display: flex; align-items: center; gap: 12px; font-size: 1.4rem; font-weight: 800; }
+        .close-cart { font-size: 1.5rem; color: #fff; cursor: pointer; transition: 0.3s; }
+        .close-cart:hover { color: var(--accent-color); transform: rotate(90deg); }
+
+        .cart-body { padding: 25px; flex-grow: 1; overflow-y: auto; display: flex; flex-direction: column; gap: 18px; }
+        
+        .cart-item { display: flex; align-items: center; gap: 15px; background: var(--card-bg); padding: 15px; border-radius: 16px; border: 1px solid var(--glass-border); }
+        .cart-item img { width: 65px; height: 65px; object-fit: cover; border-radius: 10px; border: 1px solid var(--border-color); }
+        .cart-item-details { flex-grow: 1; display: flex; flex-direction: column; }
+        .cart-item-title { font-size: 1rem; font-weight: bold; color: #fff; }
+        .cart-item-price { color: var(--primary-color); font-size: 0.95rem; font-weight: 800; margin-top: 2px; }
+        
+        .cart-quantity-controls { display: flex; align-items: center; gap: 10px; margin-top: 10px; }
+        .qty-btn { background: #331e23; border: none; color: #fff; width: 28px; height: 28px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 1rem; transition: 0.2s; }
+        .qty-btn:hover { background: var(--primary-color); color: #fff; }
+        .qty-val { font-size: 1rem; font-weight: bold; min-width: 20px; text-align: center; }
+        
+        .remove-item-btn { color: #a38888; cursor: pointer; transition: 0.3s; padding: 8px; font-size: 1.1rem; }
+        .remove-item-btn:hover { color: var(--accent-color); transform: scale(1.2); }
+
+        .empty-cart-msg { text-align: center; color: #a38888; margin: auto; font-size: 1.1rem; }
+        .empty-cart-msg i { font-size: 4rem; display: block; margin-bottom: 15px; color: #331e23; }
+
+        .cart-footer { padding: 25px; background: var(--secondary-color); border-top: 1px solid var(--border-color); }
+        .cart-total-box { display: flex; justify-content: space-between; font-weight: 800; font-size: 1.3rem; margin-bottom: 20px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px; }
+        .checkout-btn { width: 100%; display: flex; align-items: center; justify-content: center; gap: 12px; background: var(--primary-gradient); color: #fff; padding: 16px; border-radius: 35px; text-decoration: none; font-weight: 900; border: none; cursor: pointer; font-size: 1.1rem; transition: 0.3s; box-shadow: 0 5px 25px rgba(216, 138, 138, 0.4); }
+        .checkout-btn:hover { transform: translateY(-3px); box-shadow: 0 8px 30px rgba(216, 138, 138, 0.6); }
+
+        .cart-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.85); backdrop-filter: blur(8px); z-index: 2999; display:none; }
+        .cart-overlay.open { display:block; }
+
+        .mega-menu-overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(18, 9, 11, 0.98);
+            backdrop-filter: blur(25px);
+            z-index: 4000;
+            overflow-y: auto;
+            padding: 50px 8%;
+            animation: fadeIn 0.4s ease;
+        }
+        .mega-menu-overlay.open { display: block; }
+        .mega-menu-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 25px;
+            margin-bottom: 35px;
+        }
+        .mega-menu-header h2 { color: var(--primary-color); font-size: 2rem; font-weight: 900; }
+        .mega-menu-close { font-size: 2.2rem; color: #fff; cursor: pointer; transition: 0.3s; }
+        .mega-menu-close:hover { color: var(--accent-color); transform: rotate(90deg); }
+        
+        .mega-menu-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+            gap: 35px;
+        }
+        .mega-menu-column {
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 20px;
+            border: 1px solid var(--border-color);
+        }
+        
+        .mega-menu-tab-btn {
+            width: 100%;
+            background: #331e23;
+            color: #fff;
+            padding: 18px 22px;
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            text-align: right;
+            font-size: 1.15rem;
+            font-weight: 800;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: 0.3s;
+            margin-bottom: 15px;
+        }
+        html[dir="ltr"] .mega-menu-tab-btn { text-align: left; }
+        .mega-menu-tab-btn:hover, .mega-menu-tab-btn.active {
+            border-color: var(--primary-color);
+            color: var(--primary-color);
+            background: #1a0f12;
+        }
+
+        .mega-menu-content {
+            display: none;
+            padding: 15px 5px;
+            animation: fadeIn 0.3s ease;
+        }
+        .mega-menu-content.open { display: block; }
+
+        .mega-sub-category-box {
+            background: #1a0f12;
+            margin-bottom: 15px;
+            border-radius: 12px;
+            border: 1px solid var(--glass-border);
+            overflow: hidden;
+        }
+        .mega-sub-category-header {
+            padding: 16px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            font-weight: 800;
+            color: #fff;
+            transition: 0.3s;
+        }
+        .mega-sub-category-header:hover { color: var(--primary-color); background: #331e23; }
+        
+        .mega-zone-item {
+            background: #1a0f12;
+            margin-bottom: 12px;
+            border-radius: 12px;
+            border: 1px solid var(--glass-border);
+            overflow: hidden;
+        }
+        .mega-zone-header {
+            padding: 16px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            font-weight: 800;
+            transition: 0.3s;
+        }
+        .mega-zone-header:hover { color: var(--primary-color); background: #331e23; }
+        .mega-zone-cities {
+            display: none;
+            padding: 15px;
+            background: #12090b;
+            border-top: 1px solid var(--glass-border);
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            animation: fadeIn 0.2s ease;
+        }
+        .mega-zone-cities.open { display: grid; }
+        .mega-zone-cities > div {
+            display: flex;
+            flex-direction: column;
+            background: var(--card-bg);
+            border: 1px solid var(--glass-border);
+            border-radius: 10px;
+            padding: 12px;
+            align-items: center;
+            text-align: center;
+        }
+
+        footer { background: #0c0507; color: #c9b3b3; padding: 40px 8% 40px 8%; border-top: 1px solid var(--border-color); }
+        .footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 40px; text-align: right; margin-bottom: 50px; padding-top: 20px;}
+        html[dir="ltr"] .footer-grid { text-align: left; }
+        .footer-col h4 { color: #fff; margin-bottom: 25px; font-size: 1.3rem; font-weight: 800; border-bottom: 2px solid var(--primary-color); display: inline-block; padding-bottom: 8px; }
+        .footer-col ul { list-style: none; }
+        .footer-col ul li { margin-bottom: 14px; }
+        .footer-col ul li a { color: #c9b3b3; text-decoration: none; transition: 0.3s; font-size: 1rem; }
+        .footer-col ul li a:hover { color: var(--primary-color); padding-right: 10px; }
+        html[dir="ltr"] .footer-col ul li a:hover { padding-right: 0; padding-left: 10px; }
+
+        .careers-badge-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: linear-gradient(135deg, rgba(216, 138, 138, 0.15), rgba(38, 22, 26, 0.9));
+            color: #fff !important;
+            padding: 12px 20px;
+            border-radius: 14px;
+            border: 1px solid var(--border-color);
+            font-weight: bold;
+            font-size: 0.95rem;
+            transition: all 0.3s ease;
+        }
+
+        .careers-badge-link:hover {
+            background: var(--primary-gradient) !important;
+            border-color: transparent !important;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(216, 138, 138, 0.4);
+            padding-right: 20px !important;
+        }
+
+        .careers-badge-link i {
+            color: var(--primary-color);
+            font-size: 1.1rem;
+            transition: 0.3s;
+        }
+
+        .careers-badge-link:hover i {
+            color: #fff;
+        }
+
+        .social-links { display: flex; gap: 15px; margin-top: 20px; }
+        .social-links a { color: #fff; background: var(--card-bg); width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; border-radius: 50%; transition: 0.3s; border: 1px solid var(--border-color); }
+        .social-links a:hover { background: var(--primary-gradient); color: #fff; transform: translateY(-5px); box-shadow: 0 5px 15px rgba(216, 138, 138, 0.4); }
+        .footer-bottom { text-align: center; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 30px; font-size: 0.95rem; font-weight: 600; }
+        .footer-bottom span { color: var(--primary-color); font-family: var(--font-brand); font-weight: 900; }
+
+        .modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.88); backdrop-filter: blur(12px); z-index: 5000; justify-content: center; align-items: center; opacity: 0; transition: opacity 0.3s ease; }
+        .modal-overlay.open { display: flex; opacity: 1; }
+        .login-modal { background: var(--card-bg); border: 1px solid var(--border-color); width: 90%; max-width: 480px; padding: 50px 40px; border-radius: 28px; box-shadow: 0 25px 60px rgba(0,0,0,0.9); position: relative; text-align: center; animation: modalSlide 0.3s ease; }
+        @keyframes modalSlide { from { transform: translateY(-30px); } to { transform: translateY(0); } }
+        .login-modal h2 { color: var(--primary-color); margin-bottom: 30px; font-weight: 900; font-size: 1.8rem; }
+        
+        .search-box-input { width: 100%; padding: 16px; background: #12090b; border: 1px solid var(--border-color); border-radius: 14px; color: #fff; font-size: 1.05rem; text-align: center; outline: none; margin-bottom: 15px; }
+
+        .input-group { position: relative; margin-bottom: 24px; text-align: right; }
+        html[dir="ltr"] .input-group { text-align: left; }
+        .input-group i { position: absolute; top: 50%; transform: translateY(-50%); color: var(--primary-color); font-size: 1.2rem; }
+        html[dir="rtl"] .input-group i { right: 20px; }
+        html[dir="ltr"] .input-group i { left: 20px; }
+        .input-group input, .input-group select, .input-group textarea { width: 100%; padding: 16px 20px; background: #12090b; border: 1px solid var(--glass-border); border-radius: 14px; color: #fff; font-size: 1rem; outline: none; transition: 0.3s; }
+        html[dir="rtl"] .input-group input, html[dir="rtl"] .input-group select, html[dir="rtl"] .input-group textarea { padding-right: 55px; }
+        html[dir="ltr"] .input-group input, html[dir="ltr"] .input-group select, html[dir="ltr"] .input-group textarea { padding-left: 55px; }
+        .input-group input:focus, .input-group textarea:focus { border-color: var(--primary-color); box-shadow: 0 0 10px rgba(216, 138, 138, 0.3); }
+
+        .remember-me-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 20px;
+            color: #c9b3b3;
+            font-size: 0.95rem;
+            cursor: pointer;
+            user-select: none;
+        }
+        .remember-me-group input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            accent-color: var(--primary-color);
+            cursor: pointer;
+        }
+
+        .modal-buttons { display: flex; flex-direction: column; gap: 14px; margin-top: 20px; }
+        .modal-buttons .btn-submit { background: var(--success-color); color: white; font-weight: 800; padding: 16px; border: none; border-radius: 35px; cursor: pointer; font-size: 1.05rem; transition: 0.3s; box-shadow: 0 5px 20px rgba(16, 185, 129, 0.3); }
+        .modal-buttons .btn-submit:hover { background: #059669; transform: translateY(-2px); }
+        .modal-buttons .btn-close { background: transparent; color: #c9b3b3; border: none; cursor: pointer; padding: 10px; font-size: 0.95rem; text-decoration: underline; }
+
+        .btn-gps { width: 100%; background: #0284c7; color: #fff; font-weight: 800; padding: 14px; border: none; border-radius: 35px; cursor: pointer; font-size: 1rem; transition: 0.3s; display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 22px; box-shadow: 0 4px 15px rgba(2, 132, 199, 0.3); }
+        .btn-gps:hover { background: #0369a1; transform: translateY(-2px); } 
+        .btn-create-account { background: transparent; color: var(--primary-color); border: 1px dashed var(--primary-color); font-weight: 800; padding: 14px; border-radius: 35px; cursor: pointer; font-size: 1rem; transition: 0.3s; display: flex; align-items: center; justify-content: center; gap: 10px; }
+        .btn-create-account:hover { background: rgba(216, 138, 138, 0.15); transform: scale(1.02); } 
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } } 
+        
+        .search-results-container {
+            max-height: 250px;
+            overflow-y: auto;
+            margin-bottom: 15px;
+            text-align: right;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .search-item-result {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            background: #12090b;
+            padding: 10px;
+            border-radius: 12px;
+            border: 1px solid var(--glass-border);
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .search-item-result:hover {
+            border-color: var(--primary-color);
+            background: var(--card-bg-hover);
+        }
+        .search-item-result img {
+            width: 45px;
+            height: 45px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+        .search-item-info {
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+        .search-item-info span {
+            font-size: 0.95rem;
+            font-weight: bold;
+            color: #fff;
+        }
+        .search-item-info small {
+            color: var(--primary-color);
+            font-weight: bold;
+        }
+
+        .seo-rich-content {
+            padding: 60px 8%;
+            background: #0c0507;
+            color: #c9b3b3;
+            font-size: 1rem;
+            line-height: 1.9;
+            border-top: 1px solid var(--border-color);
+        }
+        .seo-rich-content h2 {
+            color: #fff;
+            font-size: 1.6rem;
+            font-weight: 800;
+            margin-bottom: 20px;
+        }
+    </style> 
+</head> 
+<body> 
+    
+    <header id="site-header"> 
+        <div class="header-left-actions"> 
+            <a href="javascript:void(0)" class="header-icon-btn" id="open-search-btn" aria-label="البحث عن منتج"> <i class="fas fa-search"></i> </a> 
+            <a href="javascript:void(0)" class="header-icon-btn" onclick="openFavoritesModal()" aria-label="أضف للمفضلة"> <i class="far fa-heart"></i> <span class="badge" id="fav-counter" style="background: var(--primary-color);">0</span> </a> 
+            <a href="javascript:void(0)" class="header-icon-btn" id="open-cart-btn" aria-label="سلة التسوق"> <i class="fas fa-shopping-bag"></i> <span class="badge" id="cart-counter">0</span> </a> 
+            <a href="javascript:void(0)" class="header-icon-btn" id="open-track-btn" title="تتبع طلبك" aria-label="تتبع طلبك"> <i class="fas fa-box"></i> </a> 
+            
+            <a href="javascript:void(0)" class="header-icon-btn" onclick="openCompanyEmailModal()" title="تواصل الشركات والموردين عبر الإيميل" aria-label="تواصل الشركات"> <i class="fas fa-envelope-open-text" style="color: var(--primary-color);"></i> </a>
+
+            <a href="javascript:void(0)" class="header-btn-link open-login-trigger" style="color: var(--primary-color)"> <span id="nav-login-text">تسجيل الدخول</span><i class="fas fa-sign-in-alt"></i> </a> 
+            <a href="javascript:void(0)" onclick="handleLogoutClick()" class="header-btn-link" style="color:#ff4757"> <span id="nav-logout-text">تسجيل الخروج</span><i class="fas fa-sign-out-alt"></i> </a> 
+        </div> 
+        <div class="header-right-content"> 
+            <div class="menu-logo-container">
+                <a href="#home" class="logo" aria-label="شعار غلا للكوزمتكس">
+                    <img src="c670106e-9a80-4b0c-8a4c-f19ed33c4fbd.jpg" class="menu-logo-img" alt="شعار غلا للكوزمتكس">
+                </a>
+                <div class="menu-toggle" id="mega-menu-trigger" aria-label="فتح القائمة الكبرى"><i class="fas fa-bars"></i></div> 
+            </div>
+        </div> 
+    </header> 
+
+    <div class="mega-menu-overlay" id="mega-menu-container"> 
+        <div class="mega-menu-header"> 
+            <h2 id="mega-menu-title">تصفح أحدث مجموعات ومستحضرات غلا للكوزمتكس</h2> 
+            <i class="fas fa-times mega-menu-close" id="mega-menu-close-btn" aria-label="إغلاق القائمة"></i> 
+        </div> 
+        
+        <div style="display: flex; gap: 15px; justify-content: space-between; align-items: center; margin-bottom: 25px; flex-wrap: wrap; background: #1a0f12; padding: 18px 22px; border-radius: 16px; border: 1px solid var(--border-color); box-shadow: 0 8px 25px rgba(0,0,0,0.5);">
+            <button id="mega-lang-toggle" class="header-btn-link" style="padding: 10px 22px; font-size: 0.95rem; color: #fff; background: linear-gradient(135deg, rgba(2, 132, 199, 0.2), rgba(38, 22, 26, 0.9)); border: 1px solid rgba(2, 132, 199, 0.5);"><i class="fas fa-language" style="color: #0284c7;"></i> <span class="lang-text-span">English</span></button>
+            <div style="display: flex; gap: 12px;">
+                <button class="header-btn-link open-login-trigger" style="padding: 10px 20px; font-size: 0.9rem; background: linear-gradient(135deg, rgba(16, 185, 129, 0.25), rgba(38, 22, 26, 0.9)); color: var(--success-color); border-color: rgba(16, 185, 129, 0.5);"><i class="fas fa-sign-in-alt"></i> <span class="mega-btn-login-text">دخول</span></button>
+                <button onclick="handleLogoutClick()" class="header-btn-link" style="padding: 10px 20px; font-size: 0.9rem; background: linear-gradient(135deg, rgba(255, 71, 87, 0.25), rgba(38, 22, 26, 0.9)); color: #ff4757; border-color: rgba(255, 71, 87, 0.5);"><i class="fas fa-sign-out-alt"></i> <span class="mega-btn-logout-text">خروج</span></button>
+            </div>
+        </div> 
+
+        <div class="mega-menu-grid"> 
+            <div class="mega-menu-column"> 
+                <button class="mega-menu-tab-btn" onclick="toggleMegaTab('products-tab-content', this)">
+                    <span id="mega-tab-prod-title">✨ أَقسام التجميل والعناية</span>
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+                
+                <div class="mega-menu-content" id="products-tab-content">
+                    <div class="mega-sub-category-box">
+                        <div class="mega-sub-category-header" onclick="navigateToCategory('skincare')">
+                            <span id="mega-heading-skincare">1. العناية بالبشرة والوجه (تصفح الكتالوج الكامل)</span>
+                            <i class="fas fa-arrow-left"></i>
+                        </div>
+                    </div>
+                    
+                    <div class="mega-sub-category-box">
+                        <div class="mega-sub-category-header" onclick="navigateToCategory('haircare')">
+                            <span id="mega-heading-haircare">2. العناية بالشعر والزيوت (تصفح الكتالوج الكامل)</span>
+                            <i class="fas fa-arrow-left"></i>
+                        </div>
+                    </div>
+
+                    <div class="mega-sub-category-box">
+                        <div class="mega-sub-category-header" onclick="navigateToCategory('makeup')">
+                            <span id="mega-heading-makeup">3. المكياج ومستحضرات التجميل (تصفح الكتالوج الكامل)</span>
+                            <i class="fas fa-arrow-left"></i>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+
+            <div class="mega-menu-column"> 
+                <button class="mega-menu-tab-btn" onclick="toggleMegaTab('delivery-tab-content', this)">
+                    <span id="mega-tab-delivery-title">📍 التوصيل لكافة مناطق الأردن</span>
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+                
+                <div class="mega-menu-content" id="delivery-tab-content">
+                    <div class="mega-zone-item">
+                        <div class="mega-zone-header" onclick="toggleDeliveryZone('central-cities', this)">
+                            <span class="zone-name-text" data-ar="المملكة الأردنية الهاشمية" data-en="Jordan Kingdom">المملكة الأردنية الهاشمية</span>
+                            <i class="fas fa-plus"></i>
+                        </div>
+                        <div class="mega-zone-cities" id="central-cities">
+                            <div style="grid-column: span 2;">
+                                <i class="fas fa-truck" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 8px;"></i>
+                                <span data-ar="توصيل سريع لجميع المحافظات" data-en="Fast Kingdom Delivery">توصيل سريع لجميع المحافظات</span>
+                                <small>(عمان، إربد، الزرقاء، العقبة، السلط، كافة المناطق)</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+        </div> 
+    </div> 
+
+    <div class="cart-overlay" id="cart-overlay-shadow"></div>
+    <div class="cart-drawer" id="sidebar-cart-drawer">
+        <div class="cart-header">
+            <h3><i class="fas fa-shopping-bag"></i> <span id="cart-title-text">سلة المشتريات</span></h3>
+            <i class="fas fa-times close-cart" id="close-cart-drawer-btn" aria-label="إغلاق السلة"></i>
+        </div>
+        <div class="cart-body" id="cart-items-container"></div>
+        <div class="cart-footer">
+            <div class="cart-total-box">
+                <span id="cart-total-label">المجموع الاجمالي:</span>
+                <span id="cart-total-amount-val">0 دينار</span>
+            </div>
+            <button class="checkout-btn" onclick="openCheckoutModal()"><i class="fab fa-whatsapp"></i> <span id="cart-checkout-label">تأكيد الطلب عبر الواتساب</span></button>
+        </div>
+    </div>
+
+    <!-- قسم الهيرو الرئيسي -->
+    <section class="hero" id="home">
+</section>
+
+    <section class="about-company-section" id="about-company-section">
+        <div class="about-company-container">
+            <h2>عالم غلا للكوزمتكس والتجميل</h2>
+            <p>
+                نحن في شركة <strong>غلا للكوزمتكس</strong> نقدم أحدث صيحات عالم التجميل ومنتجات العناية الفاخرة التي تمنحك الجمال والنضارة اليومية بأعلى معايير الجودة في الأردن. نهدف إلى توفير أحدث مستحضرات العناية بالبشرة، الشعر، والمكياج الآمن والمعتمد لضمان تألقك الدائم.
+            </p>
+        </div>
+
+        <div class="main-services-grid">
+            <div class="main-service-card" id="service-skincare">
+                <div>
+                    <img src="e3f9af3e-eefb-41cf-8d4b-931792385a18.jpg" alt="العناية بالبشرة" class="service-img-preview" loading="lazy">
+                    <h3>1. قسم العناية بالبشرة</h3>
+                    <p>
+                        مجموعات متكاملة لتنظيف وترطيب البشرة، سيروم المغذيات الطبيعية، وكريمات الوقاية والنضارة المختارة من أفضل المنتجات العالمية لإبراز إشراقة بشرتك.
+                    </p>
+                </div>
+                <button class="main-service-btn" onclick="navigateToCategory('skincare')">عرض قائمة منتجات البشرة 👈</button>
+            </div>
+
+            <div class="main-service-card" id="service-haircare">
+                <div>
+                    <img src="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80" alt="العناية بالشعر" class="service-img-preview" loading="lazy">
+                    <h3>2. قسم العناية بالشعر</h3>
+                    <p>
+                        زيوت طبيعية، شامبو مغذي، وماسكات سحرية لترميم الشعر والتخلص من التقصف وتغذية الجذور لتتمتعي بشعر صحي، قوي، ولامع.
+                    </p>
+                </div>
+                <button class="main-service-btn" onclick="navigateToCategory('haircare')">عرض قائمة منتجات الشعر 👈</button>
+            </div>
+
+            <div class="main-service-card" id="service-cosmetics">
+                <div>
+                    <img src="https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=600&q=80" alt="المكياج ومستحضرات التجميل" class="service-img-preview" loading="lazy">
+                    <h3>3. قسم المكياج والتجميل</h3>
+                    <p>
+                        تشكيلة واسعة من مستحضرات التجميل والمكياج العصري المتنوع الذي يناسب كافة أنواع البشرة ويمنحك إطلالة جذابة ومميزة طوال اليوم.
+                    </p>
+                </div>
+                <button class="main-service-btn" onclick="navigateToCategory('makeup')">عرض قائمة المكياج 👈</button>
+            </div>
+        </div>
+    </section>
+
+    <section class="features-section">
+        <div class="feature-box" onclick="handleFeatureClick()">
+            <i class="fas fa-pump-soap"></i>
+            <h3 class="feat-t1">منتجات أصلية 100%</h3>
+            <p class="feat-p1">مكونات ومستحضرات تجميل خاضعة لأعلى معايير الفحص والآمان للبشرة</p>
+        </div>
+        <div class="feature-box" onclick="handleFeatureClick()">
+            <i class="fas fa-shipping-fast"></i>
+            <h3 class="feat-t2">توصيل سريع</h3>
+            <p class="feat-p2">توصيل آمن وسريع لكافة الطلبات والمستحضرات لكل المحافظات الأردنية</p>
+        </div>
+        <div class="feature-box" onclick="handleFeatureClick()">
+            <i class="fas fa-headset"></i>
+            <h3 class="feat-t3">استشارات تجميلية</h3>
+            <p class="feat-p3">فريق مختص لمساعدتك في اختيار المنتجات الأنسب لنوع بشرتك وشعرك</p>
+        </div>
+    </section>
+
+    <section class="products-section" id="store-products">
+        <h2 id="main-products-heading" style="color: #fff; font-size: 2.5rem; margin-bottom: 12px; font-weight: 900;">كتالوج منتجات غلا للكوزمتكس</h2>
+        <p id="main-products-sub" style="color:#c9b3b3; max-width:650px; margin: 0 auto 30px auto; font-size:1.05rem;">تصفحي المجموعات الكاملة والممتازة المختارة بعناية لتلبية كافة احتياجات جمالك اليومية</p>
+        
+        <div class="category-filter-buttons">
+            <button class="filter-btn active" id="btn-filter-all" onclick="filterProducts('all')"><i class="fas fa-th-large"></i> جميع الأقسام</button>
+            <button class="filter-btn" id="btn-filter-skincare" onclick="filterProducts('skincare')"><i class="fas fa-spa"></i> قسم العناية بالبشرة</button>
+            <button class="filter-btn" id="btn-filter-haircare" onclick="filterProducts('haircare')"><i class="fas fa-pump-soap"></i> قسم العناية بالشعر</button>
+            <button class="filter-btn" id="btn-filter-makeup" onclick="filterProducts('makeup')"><i class="fas fa-magic"></i> قسم المكياج والتجميل</button>
+        </div>
+
+        <div class="category-group-block" id="block-skincare">
+            <h3 class="category-title"><i class="fas fa-spa"></i> قسم العناية بالبشرة والوجه</h3>
+            <div class="products-grid">
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('cos-skincare', 'مجموعة العناية بالبشرة الطبيعية الفاخرة')"></i>
+                    <img src="e3f9af3e-eefb-41cf-8d4b-931792385a18.jpg" class="product-img" alt="مجموعة العناية بالبشرة" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="مجموعة العناية بالبشرة الطبيعية الفاخرة" data-en="Natural Skincare Set">مجموعة العناية بالبشرة الطبيعية الفاخرة</h3>
+                    <p itemprop="description" data-ar="مستحضرات عناية طبيعية تغذي البشرة وتمنحها النضارة والحيوية طوال اليوم." data-en="Natural skincare products that give your skin radiance.">مستحضرات عناية طبيعية تغذي البشرة وتمنحها النضارة والحيوية طوال اليوم.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="18.00">18</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('cos-skincare', 'مجموعة العناية بالبشرة الطبيعية الفاخرة', 18, 'e3f9af3e-eefb-41cf-8d4b-931792385a18.jpg')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('sk-serum-c', 'سيروم فيتامين C للنضارة والتفتيح')"></i>
+                    <img src="https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80" class="product-img" alt="سيروم فيتامين C" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="سيروم فيتامين C للنضارة والتفتيح" data-en="Vitamin C Glow Serum">سيروم فيتامين C للنضارة والتفتيح</h3>
+                    <p itemprop="description" data-ar="سيروم مركز يعزز إشراقة البشرة، يقلل من التصبغات ويحمي من علامات التقدم بالسن." data-en="Concentrated serum to brighten skin tone and fight pigmentation.">سيروم مركز يعزز إشراقة البشرة، يقلل من التصبغات ويحمي من علامات التقدم بالسن.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="15.00">15</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('sk-serum-c', 'سيروم فيتامين C للنضارة والتفتيح', 15, 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('sk-cream-hyal', 'كريم الترطيب العميق بالهياليورونيك')"></i>
+                    <img src="https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80" class="product-img" alt="كريم الترطيب" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="كريم الترطيب العميق بالهياليورونيك" data-en="Hyaluronic Deep Moisturizer">كريم الترطيب العميق بالهياليورونيك</h3>
+                    <p itemprop="description" data-ar="ترطيب مضاعف يحافظ على مرونة البشرة وينعش طبقات الجلد الجافة طوال 24 ساعة." data-en="Intense moisturizer for smooth and elastic skin texture.">ترطيب مضاعف يحافظ على مرونة البشرة وينعش طبقات الجلد الجافة طوال 24 ساعة.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="14.00">14</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('sk-cream-hyal', 'كريم الترطيب العميق بالهياليورونيك', 14, 'https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('sk-cleanser-foam', 'رغوة غسول الوجه لتنظيف المسام العميق')"></i>
+                    <img src="https://images.unsplash.com/photo-1556228722-d1191d4d3935?auto=format&fit=crop&w=600&q=80" class="product-img" alt="غسول الوجه" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="رغوة غسول الوجه لتنظيف المسام العميق" data-en="Gentle Foam Cleanser">رغوة غسول الوجه لتنظيف المسام العميق</h3>
+                    <p itemprop="description" data-ar="ينظف الشوائب والزيوت الشائبة بلطف دون أن يسبب جفافاً للبشرة." data-en="Deeply cleanses pores and removes impurities gently.">ينظف الشوائب والزيوت الشائبة بلطف دون أن يسبب جفافاً للبشرة.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="11.00">11</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('sk-cleanser-foam', 'رغوة غسول الوجه لتنظيف المسام العميق', 11, 'https://images.unsplash.com/photo-1556228722-d1191d4d3935?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('sk-sunscreen-spf', 'واقي الشمس الشفاف SPF50+')"></i>
+                    <img src="https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=80" class="product-img" alt="واقي الشمس" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="واقي الشمس الشفاف بالحماية القصوى SPF50+" data-en="Invisible Sunscreen SPF50+">واقي الشمس الشفاف بالحماية القصوى SPF50+</h3>
+                    <p itemprop="description" data-ar="حماية متكاملة من الأشعة الضارة بدون إبقاء أي أثر أبيض أو ملمس دهني." data-en="Broad spectrum protection with zero white cast or grease.">حماية متكاملة من الأشعة الضارة بدون إبقاء أي أثر أبيض أو ملمس دهني.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="13.00">13</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('sk-sunscreen-spf', 'واقي الشمس الشفاف بالحماية القصوى SPF50+', 13, 'https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('sk-night-repair', 'كريم الليل لترميم وحماية البشرة')"></i>
+                    <img src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=600&q=80" class="product-img" alt="كريم الليل" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="كريم الليل المكثف لتجديد أنسجة البشرة" data-en="Intensive Night Repair Cream">كريم الليل المكثف لتجديد أنسجة البشرة</h3>
+                    <p itemprop="description" data-ar="يعمل طوال الليل على ترميم وإمداد البشرة بالعناصر المغذية لتستيقظي ببشرة مشدودة." data-en="Works overnight to repair and deeply nourish tired skin.">يعمل طوال الليل على ترميم وإمداد البشرة بالعناصر المغذية لتستيقظي ببشرة مشدودة.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="16.00">16</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('sk-night-repair', 'كريم الليل المكثف لتجديد أنسجة البشرة', 16, 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="category-group-block" id="block-haircare">
+            <h3 class="category-title"><i class="fas fa-pump-soap"></i> قسم العناية بالشعر والزيوت المقوية</h3>
+            <div class="products-grid">
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('cos-haircare', 'سيروم ومجموعة العناية بالشعر التالف')"></i>
+                    <img src="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80" class="product-img" alt="العناية بالشعر" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="سيروم ومجموعة العناية بالشعر التالف" data-en="Hair Repair Serum Set">سيروم ومجموعة العناية بالشعر التالف</h3>
+                    <p itemprop="description" data-ar="خلطة الزيوت والسيروم المغذي لإصلاح وتقوية جذور الشعر وأطرافه." data-en="Nourishing serum blend to repair and strengthen hair.">خلطة الزيوت والسيروم المغذي لإصلاح وتقوية جذور الشعر وأطرافه.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="22.00">22</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('cos-haircare', 'سيروم ومجموعة العناية بالشعر التالف', 22, 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('hr-argan-oil', 'زيت الأرغان الخالص لتنعيم الشعر')"></i>
+                    <img src="https://images.unsplash.com/photo-1608248597262-838d510be886?auto=format&fit=crop&w=600&q=80" class="product-img" alt="زيت الأرغان" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="زيت الأرغان المغذي والتألق الشديد" data-en="Pure Argan Nourishing Hair Oil">زيت الأرغان المغذي والتألق الشديد</h3>
+                    <p itemprop="description" data-ar="يعيد الحيوية واللمعان للشعر الباهت ويمنحه نعومة فائقة ومرونة طوال اليوم." data-en="Restores shine and softness to dry and damaged hair instantly.">يعيد الحيوية واللمعان للشعر الباهت ويمنحه نعومة فائقة ومرونة طوال اليوم.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="16.00">16</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('hr-argan-oil', 'زيت الأرغان المغذي والتألق الشديد', 16, 'https://images.unsplash.com/photo-1608248597262-838d510be886?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('hr-keratin-mask', 'ماسك الكيراتين والبروتين المكثف')"></i>
+                    <img src="https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=600&q=80" class="product-img" alt="ماسك الكيراتين" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="ماسك الكيراتين والبروتين لترميم الشعر" data-en="Intensive Keratin Hair Mask">ماسك الكيراتين والبروتين لترميم الشعر</h3>
+                    <p itemprop="description" data-ar="علاج مكثف وجذري لتقصف الشعر وتغذيته من البصيلات حتى الأطراف." data-en="Deep protein treatment to rebuild and strengthen broken hair fibers.">علاج مكثف وجذري لتقصف الشعر وتغذيته من البصيلات حتى الأطراف.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="19.00">19</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('hr-keratin-mask', 'ماسك الكيراتين والبروتين لترميم الشعر', 19, 'https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('hr-shampoo-bio', 'شامبو النباتات الطبيعي (خالي من السلفات)')"></i>
+                    <img src="https://images.unsplash.com/photo-1585232351009-aa87416fca90?auto=format&fit=crop&w=600&q=80" class="product-img" alt="شامبو طبيعي" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="شامبو النباتات الطبيعي (خالي من السلفات)" data-en="Sulfate-Free Organic Shampoo">شامبو النباتات الطبيعي (خالي من السلفات)</h3>
+                    <p itemprop="description" data-ar="تركيبة لطيفة لحماية فروة الرأس الحساسة ومنع تساقط الشعر وتجديد خلاياه." data-en="Gentle sulfate-free formula suitable for color-treated and sensitive hair.">تركيبة لطيفة لحماية فروة الرأس الحساسة ومنع تساقط الشعر وتجديد خلاياه.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="12.00">12</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('hr-shampoo-bio', 'شامبو النباتات الطبيعي (خالي من السلفات)', 12, 'https://images.unsplash.com/photo-1585232351009-aa87416fca90?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('hr-biotin-spray', 'بخاخ البيوتين لتكثيف ومنع تساقط الشعر')"></i>
+                    <img src="https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=600&q=80" class="product-img" alt="بخاخ البيوتين" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="بخاخ البيوتين المقوي لتكثيف الشعر" data-en="Biotin Thickening Hair Spray">بخاخ البيوتين المقوي لتكثيف الشعر</h3>
+                    <p itemprop="description" data-ar="محفز قوي للبصيلات يزيد من كثافة وسُمك الشعر ويحفز إنبات الفراغات." data-en="Stimulates hair follicles to increase density and volume.">محفز قوي للبصيلات يزيد من كثافة وسُمك الشعر ويحفز إنبات الفراغات.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="15.00">15</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('hr-biotin-spray', 'بخاخ البيوتين المقوي لتكثيف الشعر', 15, 'https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('hr-heat-protect', 'بخاخ الحماية من حرارة السشوار والفير')"></i>
+                    <img src="https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=600&q=80" class="product-img" alt="بخاخ حماية الشعر" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="بخاخ حماية الشعر الحراري الفائق" data-en="Thermal Heat Protectant Spray">بخاخ حماية الشعر الحراري الفائق</h3>
+                    <p itemprop="description" data-ar="يشكل درعاً حامياً للشعر من أضرار الحرارة العالية ويحافظ على طراوة وأناقة التسريحة." data-en="Forms a shield against high heat styling tools up to 230°C.">يشكل درعاً حامياً للشعر من أضرار الحرارة العالية ويحافظ على طراوة وأناقة التسريحة.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="13.00">13</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('hr-heat-protect', 'بخاخ حماية الشعر الحراري الفائق', 13, 'https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="category-group-block" id="block-makeup">
+            <h3 class="category-title"><i class="fas fa-magic"></i> قسم المكياج ومستحضرات التجميل العصرية</h3>
+            <div class="products-grid">
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('cos-makeup', 'باكيج المكياج العصري المتكامل')"></i>
+                    <img src="https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=600&q=80" class="product-img" alt="باكيج المكياج" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="باكيج المكياج العصري المتكامل" data-en="Modern Makeup Kit">باكيج المكياج العصري المتكامل</h3>
+                    <p itemprop="description" data-ar="أحدث ألوان ومستحضرات المكياج الثابت والآمن على جميع أنواع البشرة." data-en="Modern makeup kit suitable for all skin types.">أحدث ألوان ومستحضرات المكياج الثابت والآمن على جميع أنواع البشرة.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="25.00">25</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('cos-makeup', 'باكيج المكياج العصري المتكامل', 25, 'https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('mk-lipstick-velvet', 'مجموعة أحمر الشفاه المخملي (Velvet Matte)')"></i>
+                    <img src="https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=80" class="product-img" alt="أحمر شفاه" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="مجموعة أحمر الشفاه المخملي (Velvet Matte)" data-en="Velvet Matte Lipstick Set">مجموعة أحمر الشفاه المخملي (Velvet Matte)</h3>
+                    <p itemprop="description" data-ar="ألوان غنية وثابتة تدوم طويلاً مع تركيبة مرطبة تمنع جفاف الشفاه." data-en="Long-lasting velvet lipstick set with rich moisturizing formula.">ألوان غنية وثابتة تدوم طويلاً مع تركيبة مرطبة تمنع جفاف الشفاه.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="17.00">17</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('mk-lipstick-velvet', 'مجموعة أحمر الشفاه المخملي (Velvet Matte)', 17, 'https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('mk-foundation-hd', 'كريم أساس HD خفيف مع تغطية كاملة')"></i>
+                    <img src="https://images.unsplash.com/photo-1599733589046-10c005739ef9?auto=format&fit=crop&w=600&q=80" class="product-img" alt="كريم أساس" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="كريم أساس HD خفيف مع تغطية كاملة" data-en="Full Coverage HD Foundation">كريم أساس HD خفيف مع تغطية كاملة</h3>
+                    <p itemprop="description" data-ar="يمنحك بشرة موحدة بدون تكتل، مقاوم للماء والعرق، ومناسب للتصوير." data-en="Lightweight foundation with flawless full coverage effect.">يمنحك بشرة موحدة بدون تكتل، مقاوم للماء والعرق، ومناسب للتصوير.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="20.00">20</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('mk-foundation-hd', 'كريم أساس HD خفيف مع تغطية كاملة', 20, 'https://images.unsplash.com/photo-1599733589046-10c005739ef9?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('mk-palette-eyeshadow', 'باليت ظلال العيون الاحترافي (18 لون)')"></i>
+                    <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80" class="product-img" alt="باليت ظلال العيون" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="باليت ظلال العيون الاحترافي (18 لون)" data-en="Professional Eyeshadow Palette">باليت ظلال العيون الاحترافي (18 لون)</h3>
+                    <p itemprop="description" data-ar="تدرجات رائعة تجمع بين الألوان المطفأة واللامعة لإطلالات يومية ومناسبات." data-en="Pigmented eyeshadow palette with matte and shimmer shades.">تدرجات رائعة تجمع بين الألوان المطفأة واللامعة لإطلالات يومية ومناسبات.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="21.00">21</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('mk-palette-eyeshadow', 'باليت ظلال العيون الاحترافي (18 لون)', 21, 'https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('mk-mascara-vol', 'مسكارا التكثيف والتطويل المقاومة للماء')"></i>
+                    <img src="https://images.unsplash.com/photo-1560700146-1c4355208639?auto=format&fit=crop&w=600&q=80" class="product-img" alt="مسكارا مقاومة للماء" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="مسكارا التكثيف الفائق والتطويل المقاومة للماء" data-en="Waterproof Lash Volume Mascara">مسكارا التكثيف الفائق والتطويل المقاومة للماء</h3>
+                    <p itemprop="description" data-ar="تمنح رموشك حجماً مضاعفاً وطولاً جذاباً بدون تكتل مع ثبات يدوم طوال اليوم." data-en="Provides intense volume and length without smudging or clumping.">تمنح رموشك حجماً مضاعفاً وطولاً جذاباً بدون تكتل مع ثبات يدوم طوال اليوم.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="12.00">12</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('mk-mascara-vol', 'مسكارا التكثيف الفائق والتطويل المقاومة للماء', 12, 'https://images.unsplash.com/photo-1560700146-1c4355208639?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+
+                <div class="product-card" itemscope itemtype="https://schema.org/Product">
+                    <i class="far fa-heart card-fav-abs" onclick="toggleFavProduct('mk-blush-glow', 'بلاشر الخدود الكريمي المتألق')"></i>
+                    <img src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=80" class="product-img" alt="بلاشر كريمي" itemprop="image" loading="lazy">
+                    <h3 class="product-title-text" itemprop="name" data-ar="أحمر خدود كريمي (Creamy Liquid Blush)" data-en="Creamy Liquid Glow Blush">أحمر خدود كريمي (Creamy Liquid Blush)</h3>
+                    <p itemprop="description" data-ar="يمنح خدودك لمسة وردية طبيعية ومشرقة تندمج بسلاسة فائقة مع البشرة." data-en="Delivers a natural, dewy flush that blends seamlessly into the skin.">يمنح خدودك لمسة وردية طبيعية ومشرقة تندمج بسلاسة فائقة مع البشرة.</p>
+                    <div class="card-quick-actions">
+                        <i class="fas fa-eye" title="معاينة" onclick="handleCardView()"></i>
+                        <i class="fas fa-share-alt" title="مشاركة" onclick="handleCardShare()"></i>
+                    </div>
+                    <div class="card-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="10.00">10</span> <span class="curr-text" itemprop="priceCurrency" content="JOD">دينار</span>
+                    </div>
+                    <button class="card-buy-btn" onclick="addItemToCart('mk-blush-glow', 'أحمر خدود كريمي (Creamy Liquid Blush)', 10, 'https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=80')">
+                        <i class="fas fa-shopping-cart"></i><span class="add-to-cart-label">إضافة للسلة</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonials">
+        <h2 id="testi-heading">آراء عميلاتنا بمنتجات غلا للكوزمتكس</h2>
+        <div class="testimonials-grid">
+            <div class="testi-card">
+                <p class="testi-p1">"مجموعة العناية بالبشرة فرق معها وجهي من أول أسبوع، المنتجات أصلية ونتائجها روعة. شكراً شركة غلا!"</p>
+                <div class="testi-user"><i class="fas fa-user-circle"></i> <span>رزان خالد - عمان</span></div>
+            </div>
+            <div class="testi-card">
+                <p class="testi-p2">"سيروم الشعر خيالي والتوصيل كان سريع جداً لربد. أكيد رح أطلب منكم دائماً."</p>
+                <div class="testi-user"><i class="fas fa-user-circle"></i> <span>سارة العبداللات - إربد</span></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="delivery-zones">
+        <h2 id="zones-heading">توصيل المنتجات لكافة المناطق في الأردن 🇯🇴</h2>
+        <div class="jordan-map-card">
+            <i class="fas fa-map-marked-alt jordan-map-icon"></i>
+            <h3>توصيل سريع ومباشر لباب المنزل</h3>
+            <p>نصلكم أينما كنتم! نوفر خدمة التوصيل السريع لجميع مستحضرات الكوزمتكس والتجميل لكافة المحافظات والمناطق الأردنية بضمان وصول المنتجات بحالة ممتازة.</p>
+            <div class="jordan-cities-badges">
+                <span class="city-badge"><i class="fas fa-map-pin"></i> العاصمة عمان</span>
+                <span class="city-badge"><i class="fas fa-map-pin"></i> الزرقاء</span>
+                <span class="city-badge"><i class="fas fa-map-pin"></i> إربد</span>
+                <span class="city-badge"><i class="fas fa-map-pin"></i> البلقاء / السلط</span>
+                <span class="city-badge"><i class="fas fa-map-pin"></i> العقبة</span>
+                <span class="city-badge"><i class="fas fa-map-pin"></i> مادبا</span>
+                <span class="city-badge"><i class="fas fa-map-pin"></i> الكرك</span>
+                <span class="city-badge"><i class="fas fa-map-pin"></i> كافة المحافظات الأردنية</span>
+            </div>
+        </div>
+    </section>
+
+    <article class="seo-rich-content">
+        <h2>عن شركة غلا للكوزمتكس والتجميل في الأردن</h2>
+        <p>
+            تعد شركة <strong>غلا للكوزمتكس</strong> وجهتك الأولى والأبرز لكل ما تحتاجه لإبراز جمالك ورعايتك الشخصية. نقدم منتجات العناية بالبشرة، العناية بالشعر، والمكياج العصري المختار بعناية. نغطي بكفاءة عالية كافة مناطق عمان والمحافظات الأردنية مع ضمان تقديم أفضل المنتجات وأعلى مستويات الخدمة.
+        </p>
+    </article>
+
+    <footer>
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h4 id="f-about-t">حول غلا للكوزمتكس</h4>
+                <p id="f-about-desc" style="font-size: 0.95rem; line-height: 1.8;">متجرك الموثوق لتوفير أجود مستحضرات التجميل، منتجات العناية بالبشرة والشعر في الأردن.</p>
+            </div>
+            <div class="footer-col">
+                <h4 id="f-links-t">تصفح الأقسام مباشرة</h4>
+                <ul>
+                    <li><a href="javascript:void(0)" onclick="navigateToCategory('skincare')">قسم العناية بالبشرة</a></li>
+                    <li><a href="javascript:void(0)" onclick="navigateToCategory('haircare')">قسم العناية بالشعر</a></li>
+                    <li><a href="javascript:void(0)" onclick="navigateToCategory('makeup')">قسم المكياج والتجميل</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4 id="f-careers-t">فرص العمل والتوظيف</h4>
+                <p style="font-size: 0.9rem; margin-bottom: 15px; color: #c9b3b3;">انضم إلى فريق عمل شركة غلا للكوزمتكس وتطور معنا.</p>
+                <ul>
+                    <li>
+                        <a href="javascript:void(0)" onclick="openCareersModal()" class="careers-badge-link">
+                            <i class="fas fa-briefcase"></i>
+                            <span id="f-careers-link-text">قدم طلب توظيف جديد</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4 id="f-contact-t">تواصل معنا</h4>
+                <div style="margin-bottom: 15px;">
+                    <a href="javascript:void(0)" onclick="openCompanyEmailModal()" class="careers-badge-link" style="background: rgba(2, 132, 199, 0.15); border-color: rgba(2, 132, 199, 0.4);">
+                        <i class="fas fa-envelope-open-text" style="color: #0284c7;"></i>
+                        <span>تواصل الشركات عبر الإيميل</span>
+                    </a>
+                </div>
+                <div class="social-links">
+                    <a href="javascript:void(0)" aria-label="فيسبوك" onclick="handleSocialClick()"><i class="fab fa-facebook-f"></i></a>
+                    <a href="javascript:void(0)" aria-label="انستغرام" onclick="handleSocialClick()"><i class="fab fa-instagram"></i></a>
+                    <a href="javascript:void(0)" aria-label="واتساب" onclick="handleSocialClick()"><i class="fab fa-whatsapp"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; <span id="f-copy-text">2026 جميع الحقوق محفوظة لـ</span> <span>غلا للكوزمتكس</span></p>
+        </div>
+    </footer>
+
+    <div class="modal-overlay" id="login-modal-overlay">
+        <div class="login-modal">
+            <h2 id="modal-login-title">تسجيل الدخول - غلا للكوزمتكس</h2>
+            <form id="login-form-element" onsubmit="handleFormSubmit(event)">
+                <div class="input-group">
+                    <i class="fas fa-envelope"></i>
+                    <input type="email" id="login-email-input" placeholder="البريد الإلكتروني / Email" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" id="login-pass-input" placeholder="كلمة المرور / Password" required>
+                </div>
+
+                <label class="remember-me-group">
+                    <input type="checkbox" id="remember-me-checkbox" checked>
+                    <span>تذكرني وحفظ بيانات الدخول</span>
+                </label>
+
+                <div class="modal-buttons">
+                    <button type="submit" class="btn-submit" id="modal-login-btn-go">دخول</button>
+                    <button type="button" class="btn-create-account" onclick="switchModalToRegister()"><i class="fas fa-user-plus"></i> <span id="modal-register-trigger-text">إنشاء حساب جديد</span></button>
+                    <button type="button" class="btn-close closeModalBtn">إغلاق / Close</button>
+                </div>
+            </form>
+
+            <form id="register-form-element" onsubmit="handleRegisterSubmit(event)" style="display: none;">
+                <div class="input-group">
+                    <i class="fas fa-user"></i>
+                    <input type="text" id="reg-name-input" placeholder="الاسم الكامل / Full Name" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-envelope"></i>
+                    <input type="email" id="reg-email-input" placeholder="البريد الإلكتروني / Email" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-phone"></i>
+                    <input type="tel" id="reg-phone-input" placeholder="رقم الهاتف / Phone Number" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" id="reg-pass-input" placeholder="كلمة المرور الجديدة / New Password" required>
+                </div>
+
+                <label class="remember-me-group">
+                    <input type="checkbox" id="register-remember-checkbox" checked>
+                    <span>حفظ معلومات الحساب للزيارات القادمة</span>
+                </label>
+
+                <div class="modal-buttons">
+                    <button type="submit" class="btn-submit" style="background: var(--primary-gradient); color: #fff;">تأكيد التسجيل</button>
+                    <button type="button" class="btn-close" onclick="switchModalToLogin()" style="text-decoration: underline; color: #a38888;">العودة لتسجيل الدخول</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- نافذة تواصل الشركات مع إظهار البريد الإلكتروني صراحة داخل النص الصندوقي -->
+    <div class="modal-overlay" id="company-email-modal-overlay">
+        <div class="login-modal" style="max-width: 520px;">
+            <h2 id="modal-company-title"><i class="fas fa-building" style="color: var(--primary-color);"></i> تواصل الشركات والموردين</h2>
+            <p style="color: #c9b3b3; font-size: 0.9rem; margin-bottom: 15px;">يسعدنا استقبال طلبات الشراكة والتوريد مباشرة على بريدنا الرسمي: <br><strong style="color: var(--primary-color);">info@ghala-logistics.com</strong></p>
+            <form onsubmit="handleCompanyEmailSubmit(event)">
+                <div class="input-group">
+                    <i class="fas fa-building"></i>
+                    <input type="text" id="company-name" placeholder="اسم الشركة / المؤسسة" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-envelope"></i>
+                    <input type="email" id="company-email" placeholder="البريد الإلكتروني للشركة" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-phone"></i>
+                    <input type="tel" id="company-phone" placeholder="رقم الهاتف المسؤول" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-comment-alt"></i>
+                    <textarea id="company-msg" rows="3" placeholder="تفاصيل العرض التجاري / الاستفسار" required style="resize: none;"></textarea>
+                </div>
+                <div class="modal-buttons">
+                    <button type="submit" class="btn-submit" style="background: var(--primary-gradient); color: #fff;"><i class="fas fa-paper-plane"></i> إرسال عبر الإيميل الرسمي</button>
+                    <button type="button" class="btn-close closeModalBtn">إلغاء</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="checkout-modal-overlay">
+        <div class="login-modal" style="max-width: 500px;">
+            <h2 id="modal-checkout-title">معلومات الطلب وتحديد عنوان التوصيل</h2>
+            <button class="btn-gps" onclick="getCurrentLocation()"><i class="fas fa-map-marker-alt"></i> <span id="modal-gps-text">تحديد الموقع عبر الـ GPS</span></button>
+            <form onsubmit="processOrder(event)">
+                <div class="input-group">
+                    <i class="fas fa-user"></i>
+                    <input type="text" id="cust-name" placeholder="الاسم الكامل" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-phone"></i>
+                    <input type="tel" id="cust-phone" placeholder="رقم الهاتف" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-map"></i>
+                    <select id="cust-city" required>
+                        <option value="" disabled selected>اختر المحافظة</option>
+                        <option value="عمان">عمان</option>
+                        <option value="الزرقاء">الزرقاء</option>
+                        <option value="إربد">إربد</option>
+                        <option value="محافظة أخرى">محافظة أخرى</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-link"></i>
+                    <input type="text" id="cust-location-url" placeholder="رابط موقعك الجغرافي">
+                </div>
+                <div class="modal-buttons">
+                    <button type="submit" class="btn-submit" style="background:var(--primary-gradient); color:#fff;" id="modal-send-wa-btn">إرسال الطلب عبر الواتساب</button>
+                    <button type="button" class="btn-close closeModalBtn">إلغاء</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="careers-modal-overlay">
+        <div class="login-modal" style="max-width: 500px;">
+            <h2 id="modal-careers-title"><i class="fas fa-briefcase"></i> الانضمام لشركة غلا</h2>
+            <form onsubmit="handleCareersSubmit(event)">
+                <div class="input-group">
+                    <i class="fas fa-user"></i>
+                    <input type="text" id="applicant-name" placeholder="الاسم الكامل" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-phone"></i>
+                    <input type="tel" id="applicant-phone" placeholder="رقم الهاتف للتواصل" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-user-tag"></i>
+                    <select id="applicant-job" required>
+                        <option value="" disabled selected>اختر الوظيفة المطلوبة</option>
+                        <option value="تسويق ومبيعات">تسويق ومبيعات</option>
+                        <option value="خدمة عملاء واستشارات">خدمة عملاء واستشارات تجميل</option>
+                        <option value="خدمات لوجستية وتوصيل">خدمات لوجستية وتوصيل</option>
+                        <option value="وظيفة أخرى">وظائف أخرى</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-file-alt"></i>
+                    <input type="text" id="applicant-notes" placeholder="نبذة مختصرة / رابط السيرة الذاتية">
+                </div>
+                <div class="modal-buttons">
+                    <button type="submit" class="btn-submit" style="background:var(--primary-gradient); color:#fff;">تقديم الطلب</button>
+                    <button type="button" class="btn-close closeModalBtn">إلغاء</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="search-modal-overlay">
+        <div class="login-modal">
+            <h2 id="modal-search-title">ابحث عن منتج تجميل</h2>
+            <input type="text" class="search-box-input" id="search-query-input" onkeyup="performStoreSearch()" placeholder="اكتب اسم المنتج أو المستحضر...">
+            <div id="search-results-list" class="search-results-container"></div>
+            <div class="modal-buttons">
+                <button type="button" class="btn-submit" onclick="performStoreSearch()" id="modal-search-btn-go">ابحث الآن</button>
+                <button type="button" class="btn-close closeModalBtn">إغلاق</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="fav-modal-overlay">
+        <div class="login-modal">
+            <h2 id="modal-fav-title">قائمة المفضلة</h2>
+            <div id="fav-items-list" style="color: #c9b3b3; margin: 20px 0; font-size: 0.95rem;">لا يوجد منتجات في المفضلة حالياً.</div>
+            <div class="modal-buttons">
+                <button type="button" class="btn-close closeModalBtn">إغلاق</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="track-modal-overlay">
+        <div class="login-modal">
+            <h2 id="modal-track-title">تتبع حالة شحنتك</h2>
+            <input type="text" class="search-box-input" placeholder="أدخل رقم الطلب...">
+            <div class="modal-buttons">
+                <button type="button" class="btn-submit" onclick="performTrackOrder()" style="background:#0284c7;" id="modal-track-btn-go">فحص الحالة</button>
+                <button type="button" class="btn-close closeModalBtn">إغلاق</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentLang = 'ar';
+        const translations = {
+            ar: {
+                title: "تصفح أحدث مجموعات ومستحضرات غلا للكوزمتكس", currency: "دينار",
+                login: "تسجيل الدخول", logout: "تسجيل الخروج",
+                cartTitle: "سلة المشتريات", cartTotal: "المجموع الاجمالي:", cartCheckout: "تأكيد الطلب عبر الواتساب",
+                addCart: "إضافة للسلة", searchTitle: "ابحث عن منتج تجميل", searchBtn: "ابحث الآن",
+                favTitle: "قائمة المفضلة", trackTitle: "تتبع حالة شحنتك", trackBtn: "فحص الحالة",
+                checkoutTitle: "معلومات الطلب وتحديد عنوان التوصيل", gpsText: "تحديد الموقع عبر الـ GPS",
+                sendWa: "إرسال الطلب عبر الواتساب", prodTab: "✨ أَقسام التجميل والعناية", delivTab: "📍 التوصيل للمحافظات"
+            },
+            en: {
+                title: "Browse Ghala Cosmetics Catalog", currency: "JOD",
+                login: "Login", logout: "Logout",
+                cartTitle: "Shopping Bag", cartTotal: "Grand Total:", cartCheckout: "Confirm Order via WhatsApp",
+                addCart: "Add to Cart", searchTitle: "Search Cosmetics Product", searchBtn: "Search Now",
+                favTitle: "Your Favorites", trackTitle: "Track Shipment", trackBtn: "Check Status",
+                checkoutTitle: "Order & Shipping Info", gpsText: "Auto-Locate via GPS",
+                sendWa: "Send Order via WhatsApp", prodTab: "✨ Beauty Categories", delivTab: "📍 Shipping Zones"
+            }
+        };
+
+        const storeProductsData = [
+            { id: 'cos-skincare', titleAr: 'مجموعة العناية بالبشرة الطبيعية الفاخرة', titleEn: 'Natural Skincare Set', price: 18, img: 'e3f9af3e-eefb-41cf-8d4b-931792385a18.jpg' },
+            { id: 'sk-serum-c', titleAr: 'سيروم فيتامين C للنضارة والتفتيح', titleEn: 'Vitamin C Glow Serum', price: 15, img: 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80' },
+            { id: 'sk-cream-hyal', titleAr: 'كريم الترطيب العميق بالهياليورونيك', titleEn: 'Hyaluronic Deep Moisturizer', price: 14, img: 'https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80' },
+            { id: 'sk-cleanser-foam', titleAr: 'رغوة غسول الوجه لتنظيف المسام العميق', titleEn: 'Gentle Foam Cleanser', price: 11, img: 'https://images.unsplash.com/photo-1556228722-d1191d4d3935?auto=format&fit=crop&w=600&q=80' },
+            { id: 'sk-sunscreen-spf', titleAr: 'واقي الشمس الشفاف بالحماية القصوى SPF50+', titleEn: 'Invisible Sunscreen SPF50+', price: 13, img: 'https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=80' },
+            { id: 'sk-night-repair', titleAr: 'كريم الليل المكثف لتجديد أنسجة البشرة', titleEn: 'Intensive Night Repair Cream', price: 16, img: 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=600&q=80' },
+            { id: 'cos-haircare', titleAr: 'سيروم ومجموعة العناية بالشعر التالف', titleEn: 'Hair Repair Serum Set', price: 22, img: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80' },
+            { id: 'hr-argan-oil', titleAr: 'زيت الأرغان المغذي والتألق الشديد', titleEn: 'Pure Argan Nourishing Hair Oil', price: 16, img: 'https://images.unsplash.com/photo-1608248597262-838d510be886?auto=format&fit=crop&w=600&q=80' },
+            { id: 'hr-keratin-mask', titleAr: 'ماسك الكيراتين والبروتين لترميم الشعر', titleEn: 'Intensive Keratin Hair Mask', price: 19, img: 'https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=600&q=80' },
+            { id: 'hr-shampoo-bio', titleAr: 'شامبو النباتات الطبيعي (خالي من السلفات)', titleEn: 'Sulfate-Free Organic Shampoo', price: 12, img: 'https://images.unsplash.com/photo-1585232351009-aa87416fca90?auto=format&fit=crop&w=600&q=80' },
+            { id: 'hr-biotin-spray', titleAr: 'بخاخ البيوتين المقوي لتكثيف الشعر', titleEn: 'Biotin Thickening Hair Spray', price: 15, img: 'https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=600&q=80' },
+            { id: 'hr-heat-protect', titleAr: 'بخاخ حماية الشعر الحراري الفائق', titleEn: 'Thermal Heat Protectant Spray', price: 13, img: 'https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=600&q=80' },
+            { id: 'cos-makeup', titleAr: 'باكيج المكياج العصري المتكامل', titleEn: 'Modern Makeup Kit', price: 25, img: 'https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=600&q=80' },
+            { id: 'mk-lipstick-velvet', titleAr: 'مجموعة أحمر الشفاه المخملي (Velvet Matte)', titleEn: 'Velvet Matte Lipstick Set', price: 17, img: 'https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=80' },
+            { id: 'mk-foundation-hd', titleAr: 'كريم أساس HD خفيف مع تغطية كاملة', titleEn: 'Full Coverage HD Foundation', price: 20, img: 'https://images.unsplash.com/photo-1599733589046-10c005739ef9?auto=format&fit=crop&w=600&q=80' },
+            { id: 'mk-palette-eyeshadow', titleAr: 'باليت ظلال العيون الاحترافي (18 لون)', titleEn: 'Professional Eyeshadow Palette', price: 21, img: 'https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80' },
+            { id: 'mk-mascara-vol', titleAr: 'مسكارا التكثيف الفائق والتطويل المقاومة للماء', titleEn: 'Waterproof Lash Volume Mascara', price: 12, img: 'https://images.unsplash.com/photo-1560700146-1c4355208639?auto=format&fit=crop&w=600&q=80' },
+            { id: 'mk-blush-glow', titleAr: 'أحمر خدود كريمي (Creamy Liquid Blush)', titleEn: 'Creamy Liquid Glow Blush', price: 10, img: 'https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=80' }
+        ];
+
+        let cart = [];
+        let favorites = [];
+
+        window.addEventListener('DOMContentLoaded', () => {
+            loadSavedUserData();
+        });
+
+        function loadSavedUserData() {
+            const savedEmail = localStorage.getItem('ghala_user_email');
+            const savedName = localStorage.getItem('ghala_user_name');
+            const savedPhone = localStorage.getItem('ghala_user_phone');
+
+            if (savedEmail) {
+                const emailInput = document.getElementById('login-email-input');
+                if (emailInput) emailInput.value = savedEmail;
+                const navLoginText = document.getElementById('nav-login-text');
+                if (navLoginText && savedName) navLoginText.innerText = `مرحباً، ${savedName}`;
+            }
+
+            if (savedName && document.getElementById('cust-name')) {
+                document.getElementById('cust-name').value = savedName;
+            }
+            if (savedPhone && document.getElementById('cust-phone')) {
+                document.getElementById('cust-phone').value = savedPhone;
+            }
+        }
+
+        const megaMenuTrigger = document.getElementById('mega-menu-trigger');
+        const megaMenuContainer = document.getElementById('mega-menu-container');
+        const megaMenuCloseBtn = document.getElementById('mega-menu-close-btn');
+        const megaLangToggle = document.getElementById('mega-lang-toggle');
+        const htmlTag = document.getElementById('html-tag');
+
+        megaMenuTrigger.addEventListener('click', () => megaMenuContainer.classList.add('open'));
+        megaMenuCloseBtn.addEventListener('click', closeMegaMenu);
+        function closeMegaMenu() { megaMenuContainer.classList.remove('open'); }
+
+        function navigateToCategory(categoryKey) {
+            closeMegaMenu();
+            filterProducts(categoryKey);
+            const targetSection = document.getElementById('store-products');
+            if (targetSection) {
+                targetSection.scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+
+        function filterProducts(categoryKey) {
+            const blocks = {
+                skincare: document.getElementById('block-skincare'),
+                haircare: document.getElementById('block-haircare'),
+                makeup: document.getElementById('block-makeup')
+            };
+
+            const buttons = {
+                all: document.getElementById('btn-filter-all'),
+                skincare: document.getElementById('btn-filter-skincare'),
+                haircare: document.getElementById('btn-filter-haircare'),
+                makeup: document.getElementById('btn-filter-makeup')
+            };
+
+            Object.values(buttons).forEach(btn => { if(btn) btn.classList.remove('active'); });
+
+            if (categoryKey === 'all') {
+                Object.values(blocks).forEach(block => { if(block) block.style.display = 'block'; });
+                if(buttons.all) buttons.all.classList.add('active');
+            } else {
+                Object.keys(blocks).forEach(key => {
+                    if(blocks[key]) {
+                        blocks[key].style.display = (key === categoryKey) ? 'block' : 'none';
+                    }
+                });
+                if(buttons[categoryKey]) buttons[categoryKey].classList.add('active');
+            }
+        }
+
+        megaLangToggle.addEventListener('click', () => {
+            currentLang = currentLang === 'ar' ? 'en' : 'ar';
+            updateLanguageUI();
+        });
+
+        function updateLanguageUI() {
+            if (currentLang === 'ar') {
+                htmlTag.setAttribute('lang', 'ar'); htmlTag.setAttribute('dir', 'rtl');
+                document.querySelectorAll('.lang-text-span').forEach(el => el.innerText = 'English');
+            } else {
+                htmlTag.setAttribute('lang', 'en'); htmlTag.setAttribute('dir', 'ltr');
+                document.querySelectorAll('.lang-text-span').forEach(el => el.innerText = 'العربية');
+            }
+
+            document.getElementById('nav-login-text').innerText = translations[currentLang].login;
+            document.getElementById('nav-logout-text').innerText = translations[currentLang].logout;
+            document.querySelectorAll('.mega-btn-login-text').forEach(el => el.innerText = translations[currentLang].login === "Login" ? "Login" : "دخول");
+            document.querySelectorAll('.mega-btn-logout-text').forEach(el => el.innerText = translations[currentLang].logout === "Logout" ? "Logout" : "خروج");
+            document.getElementById('mega-menu-title').innerText = translations[currentLang].title;
+            document.getElementById('mega-tab-prod-title').innerText = translations[currentLang].prodTab;
+            document.getElementById('mega-tab-delivery-title').innerText = translations[currentLang].delivTab;
+
+            document.getElementById('cart-title-text').innerText = translations[currentLang].cartTitle;
+            document.getElementById('cart-total-label').innerText = translations[currentLang].cartTotal;
+            document.getElementById('cart-checkout-label').innerText = translations[currentLang].cartCheckout;
+            document.querySelectorAll('.add-to-cart-label').forEach(el => el.innerText = translations[currentLang].addCart);
+            
+            document.getElementById('modal-login-title').innerText = translations[currentLang].login;
+            document.getElementById('modal-search-title').innerText = translations[currentLang].searchTitle;
+            document.getElementById('modal-search-btn-go').innerText = translations[currentLang].searchBtn;
+            document.getElementById('modal-fav-title').innerText = translations[currentLang].favTitle;
+            document.getElementById('modal-track-title').innerText = translations[currentLang].trackTitle;
+            document.getElementById('modal-track-btn-go').innerText = translations[currentLang].trackBtn;
+            document.getElementById('modal-checkout-title').innerText = translations[currentLang].checkoutTitle;
+            document.getElementById('modal-gps-text').innerText = translations[currentLang].gpsText;
+            document.getElementById('modal-send-wa-btn').innerText = translations[currentLang].sendWa;
+
+            document.querySelectorAll('.curr-text').forEach(el => el.innerText = translations[currentLang].currency);
+            document.querySelectorAll('.product-card').forEach(card => {
+                const titleEl = card.querySelector('.product-title-text');
+                const pEl = card.querySelector('p');
+                if(titleEl) titleEl.innerText = titleEl.getAttribute(`data-${currentLang}`);
+                if(pEl) pEl.innerText = pEl.getAttribute(`data-${currentLang}`);
+            });
+
+            updateCartUI();
+        }
+
+        function toggleMegaTab(tabId, btn) {
+            const allContents = document.querySelectorAll('.mega-menu-content');
+            const allButtons = document.querySelectorAll('.mega-menu-tab-btn');
+            const content = document.getElementById(tabId);
+            const isAlreadyOpen = content.classList.contains('open');
+
+            allContents.forEach(c => c.classList.remove('open'));
+            allButtons.forEach(b => b.classList.remove('active'));
+
+            if (!isAlreadyOpen) {
+                content.classList.add('open');
+                btn.classList.add('active');
+            }
+        }
+
+        function toggleDeliveryZone(zoneId, headerEl) {
+            const allZones = document.querySelectorAll('.mega-zone-cities');
+            const allIcons = document.querySelectorAll('.mega-zone-header i');
+            const targetZone = document.getElementById(zoneId);
+            const isAlreadyOpen = targetZone.classList.contains('open');
+
+            allZones.forEach(z => z.classList.remove('open'));
+            allIcons.forEach(i => { i.classList.remove('fa-minus'); i.classList.add('fa-plus'); });
+
+            if (!isAlreadyOpen) {
+                targetZone.classList.add('open');
+                const icon = headerEl.querySelector('i');
+                icon.classList.remove('fa-plus');
+                icon.classList.add('fa-minus');
+            }
+        }
+
+        function addItemToCart(id, title, price, img) {
+            const existingItem = cart.find(item => item.id === id);
+            if (existingItem) { existingItem.quantity += 1; } 
+            else { cart.push({ id, title, price, img, quantity: 1 }); }
+            updateCartUI(); openCartDrawer();
+        }
+
+        function updateCartUI() {
+            const container = document.getElementById('cart-items-container');
+            const counter = document.getElementById('cart-counter');
+            const totalAmount = document.getElementById('cart-total-amount-val');
+            container.innerHTML = '';
+            
+            if (cart.length === 0) {
+                container.innerHTML = `<div class="empty-cart-msg"><i class="fas fa-shopping-bag"></i>السلة فارغة حالياً / Empty Bag</div>`;
+                if(counter) counter.innerText = 0;
+                if(totalAmount) totalAmount.innerText = '0 ' + translations[currentLang].currency;
+                return;
+            }
+
+            let totalItems = 0; let totalPrice = 0;
+            cart.forEach(item => {
+                totalItems += item.quantity; totalPrice += (item.price * item.quantity);
+                container.innerHTML += `
+                    <div class="cart-item">
+                        <img src="${item.img}" alt="${item.title}">
+                        <div class="cart-item-details">
+                            <span class="cart-item-title">${item.title}</span>
+                            <span class="cart-item-price">${item.price} ${translations[currentLang].currency}</span>
+                            <div class="cart-quantity-controls">
+                                <button class="qty-btn" onclick="changeQty('${item.id}', -1)">-</button>
+                                <span class="qty-val">${item.quantity}</span>
+                                <button class="qty-btn" onclick="changeQty('${item.id}', 1)">+</button>
+                            </div>
+                        </div>
+                        <i class="fas fa-trash-alt remove-item-btn" onclick="removeCartItem('${item.id}')"></i>
+                    </div>`;
+            });
+            if(counter) counter.innerText = totalItems;
+            if(totalAmount) totalAmount.innerText = totalPrice + ' ' + translations[currentLang].currency;
+        }
+
+        function changeQty(id, delta) {
+            const item = cart.find(item => item.id === id);
+            if(item) {
+                item.quantity += delta;
+                if(item.quantity <= 0) cart = cart.filter(i => i.id !== id);
+                updateCartUI();
+            }
+        }
+
+        function removeCartItem(id) { cart = cart.filter(item => item.id !== id); updateCartUI(); }
+
+        const openCartBtn = document.getElementById('open-cart-btn');
+        const closeCartBtn = document.getElementById('close-cart-drawer-btn');
+        const cartDrawer = document.getElementById('sidebar-cart-drawer');
+        const cartOverlay = document.getElementById('cart-overlay-shadow');
+
+        if(openCartBtn) openCartBtn.addEventListener('click', openCartDrawer);
+        if(closeCartBtn) closeCartBtn.addEventListener('click', closeCartDrawer);
+        if(cartOverlay) cartOverlay.addEventListener('click', closeCartDrawer);
+
+        function openCartDrawer() { cartDrawer.classList.add('open'); cartOverlay.classList.add('open'); }
+        function closeCartDrawer() { cartDrawer.classList.remove('open'); cartOverlay.classList.remove('open'); }
+
+        function closeAllModals() {
+            document.querySelectorAll('.modal-overlay').forEach(m => m.classList.remove('open'));
+        }
+
+        document.querySelectorAll('.closeModalBtn').forEach(btn => {
+            btn.addEventListener('click', closeAllModals);
+        });
+
+        document.querySelectorAll('.open-login-trigger').forEach(trigger => {
+            trigger.addEventListener('click', () => {
+                closeAllModals();
+                closeMegaMenu();
+                document.getElementById('login-modal-overlay').classList.add('open');
+            });
+        });
+
+        document.getElementById('open-search-btn').addEventListener('click', () => {
+            closeAllModals();
+            document.getElementById('search-query-input').value = '';
+            document.getElementById('search-results-list').innerHTML = '';
+            document.getElementById('search-modal-overlay').classList.add('open');
+            document.getElementById('search-query-input').focus();
+        });
+
+        document.getElementById('open-track-btn').addEventListener('click', () => {
+            closeAllModals();
+            document.getElementById('track-modal-overlay').classList.add('open');
+        });
+
+        function openCompanyEmailModal() {
+            closeAllModals();
+            document.getElementById('company-email-modal-overlay').classList.add('open');
+        }
+
+        function openFavoritesModal() {
+            closeAllModals();
+            const favContainer = document.getElementById('fav-items-list');
+            if (favorites.length === 0) {
+                favContainer.innerText = "لا يوجد منتجات في المفضلة حالياً.";
+            } else {
+                favContainer.innerHTML = favorites.map(f => `<div style="padding:10px; border-bottom:1px solid rgba(255,255,255,0.05);">❤️ ${f.title}</div>`).join('');
+            }
+            document.getElementById('fav-modal-overlay').classList.add('open');
+        }
+
+        function openCheckoutModal() {
+            if(cart.length === 0) {
+                alert('سلتك فارغة، يرجى اختيار المنتجات أولاً');
+                return;
+            }
+            closeCartDrawer();
+            document.getElementById('checkout-modal-overlay').classList.add('open');
+        }
+
+        function openCareersModal() {
+            closeAllModals();
+            document.getElementById('careers-modal-overlay').classList.add('open');
+        }
+
+        function handleCareersSubmit(e) {
+            e.preventDefault();
+            const name = document.getElementById('applicant-name').value;
+            const phone = document.getElementById('applicant-phone').value;
+            const job = document.getElementById('applicant-job').value;
+            const notes = document.getElementById('applicant-notes').value;
+
+            let msg = `طلب توظيف جديد لدى شركة غلا للكوزمتكس:\n\n*الاسم:* ${name}\n*رقم الهاتف:* ${phone}\n*الوظيفة المطلوبة:* ${job}\n*ملاحظات/سيرة ذاتية:* ${notes}`;
+            const targetPhone = "962700000000"; 
+            window.open(`https://wa.me/${targetPhone}?text=${encodeURIComponent(msg)}`, '_blank');
+            closeAllModals();
+        }
+
+        function handleCompanyEmailSubmit(e) {
+            e.preventDefault();
+            const compName = document.getElementById('company-name').value;
+            const compEmail = document.getElementById('company-email').value;
+            const compPhone = document.getElementById('company-phone').value;
+            const compMsg = document.getElementById('company-msg').value;
+
+            const officialCompanyEmail = "info@ghala-logistics.com";
+            const subject = `عرض تجاري / استفسار من شركة: ${compName}`;
+            const body = `اسم الشركة: ${compName}\nالبريد الإلكتروني: ${compEmail}\nرقم الهاتف: ${compPhone}\n\nتفاصيل الرسالة:\n${compMsg}`;
+
+            window.location.href = `mailto:${officialCompanyEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+            alert('جاري فتح تطبيق البريد لإرسال إيميلك الرسمي إلى شركة غلا للكوزمتكس.');
+            closeAllModals();
+        }
+
+        function toggleFavProduct(id, title) {
+            const idx = favorites.findIndex(f => f.id === id);
+            if (idx > -1) { favorites.splice(idx, 1); } 
+            else { favorites.push({ id, title }); }
+            document.getElementById('fav-counter').innerText = favorites.length;
+        }
+
+        function switchModalToRegister() {
+            document.getElementById('login-form-element').style.display = 'none';
+            document.getElementById('register-form-element').style.display = 'block';
+            document.getElementById('modal-login-title').innerText = "إنشاء حساب جديد في غلا للكوزمتكس";
+        }
+
+        function switchModalToLogin() {
+            document.getElementById('register-form-element').style.display = 'none';
+            document.getElementById('login-form-element').style.display = 'block';
+            document.getElementById('modal-login-title').innerText = translations[currentLang].login;
+        }
+
+        function handleFormSubmit(e) { 
+            e.preventDefault(); 
+            const email = document.getElementById('login-email-input').value;
+            const rememberMe = document.getElementById('remember-me-checkbox').checked;
+
+            if (rememberMe) {
+                localStorage.setItem('ghala_user_email', email);
+            } else {
+                localStorage.removeItem('ghala_user_email');
+            }
+
+            alert('تم تسجيل الدخول بنجاح وتم حفظ بياناتك في ذاكرة المتصفح'); 
+            document.getElementById('nav-login-text').innerText = email.split('@')[0];
+            closeAllModals(); 
+        }
+
+        function handleRegisterSubmit(e) { 
+            e.preventDefault(); 
+            const name = document.getElementById('reg-name-input').value;
+            const email = document.getElementById('reg-email-input').value;
+            const phone = document.getElementById('reg-phone-input').value;
+            const rememberMe = document.getElementById('register-remember-checkbox').checked;
+
+            if (rememberMe) {
+                localStorage.setItem('ghala_user_name', name);
+                localStorage.setItem('ghala_user_email', email);
+                localStorage.setItem('ghala_user_phone', phone);
+            }
+
+            alert('تم إنشاء الحساب وحفظ البيانات بنجاح في شركة غلا للكوزمتكس'); 
+            document.getElementById('nav-login-text').innerText = name;
+            closeAllModals(); 
+        }
+
+        function handleLogoutClick() { 
+            localStorage.removeItem('ghala_user_email');
+            localStorage.removeItem('ghala_user_name');
+            localStorage.removeItem('ghala_user_phone');
+            document.getElementById('nav-login-text').innerText = "تسجيل الدخول";
+            alert('تم تسجيل الخروج ومسح البيانات المحفوظة'); 
+        }
+
+        function handleFeatureClick() { alert('شركة غلا تقدم أفضل منتجات الكوزمتكس لعميلاتها في الأردن'); }
+        function handleCardView() { alert('معاينة تفاصيل المنتج'); }
+        function handleCardShare() { alert('تم نسخ رابط المنتج للمشاركة'); }
+        function handleSocialClick() { alert('سيتم تحويلك إلى صفحة غلا للكوزمتكس الرسمية'); }
+        
+        function performStoreSearch() {
+            const query = document.getElementById('search-query-input').value.trim().toLowerCase();
+            const resultsContainer = document.getElementById('search-results-list');
+            resultsContainer.innerHTML = '';
+
+            if (query === '') return;
+
+            const filteredProducts = storeProductsData.filter(item => 
+                item.titleAr.toLowerCase().includes(query) || 
+                item.titleEn.toLowerCase().includes(query)
+            );
+
+            if (filteredProducts.length === 0) {
+                resultsContainer.innerHTML = `<div style="color: #c9b3b3; text-align: center; padding: 10px;">لا توجد منتجات مطابقة لبحثك</div>`;
+                return;
+            }
+
+            filteredProducts.forEach(item => {
+                const title = currentLang === 'ar' ? item.titleAr : item.titleEn;
+                resultsContainer.innerHTML += `
+                    <div class="search-item-result" onclick="addItemToCart('${item.id}', '${title}', ${item.price}, '${item.img}'); closeAllModals();">
+                        <img src="${item.img}" alt="${title}">
+                        <div class="search-item-info">
+                            <span>${title}</span>
+                            <small>${item.price} ${translations[currentLang].currency}</small>
+                        </div>
+                        <i class="fas fa-plus-circle" style="color: var(--primary-color); font-size: 1.2rem;"></i>
+                    </div>`;
+            });
+        }
+
+        function performTrackOrder() { alert('جاري فحص حالة الطلب...'); closeAllModals(); }
+
+        function getCurrentLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(position => {
+                    const url = `https://maps.google.com/?q=${position.coords.latitude},${position.coords.longitude}`;
+                    document.getElementById('cust-location-url').value = url;
+                }, () => alert('عذراً، لم نتمكن من التقاط الموقع الجغرافي.'));
+            } else { alert('متصفحك لا يدعم الخدمة'); }
+        }
+
+        function processOrder(e) {
+            e.preventDefault();
+            const name = document.getElementById('cust-name').value;
+            const phone = document.getElementById('cust-phone').value;
+            const city = document.getElementById('cust-city').value;
+            const locUrl = document.getElementById('cust-location-url').value;
+
+            let msg = `طلب جديد من شركة غلا للكوزمتكس:\n\n*الاسم:* ${name}\n*رقم الهاتف:* ${phone}\n*المحافظة:* ${city}\n*رابط الموقع:* ${locUrl}\n\n*المنتجات المطلوبة:*\n`;
+            cart.forEach(item => {
+                msg += `- ${item.title} (العدد: ${item.quantity}) بسعر: ${item.price * item.quantity} دينار\n`;
+            });
+
+            const targetPhone = "962700000000"; 
+            window.open(`https://wa.me/${targetPhone}?text=${encodeURIComponent(msg)}`, '_blank');
+            closeAllModals();
+        }
+    </script>
+</body> 
+</html>
