@@ -72,7 +72,7 @@
           "name": "VELVET GLOW COMBANY",
           "image": "e3f9af3e-eefb-41cf-8d4b-931792385a18.jpg",
           "url": "https://www.VELVET GLOW COMBANY-logistics.com/",
-          "telephone": "+962700000000",
+          "telephone": "+962780651101",
           "priceRange": "JOD",
           "address": {
             "@type": "PostalAddress",
@@ -892,6 +892,45 @@
             font-weight: 800;
             margin-bottom: 20px;
         }
+    
+        /* أزرار الاتصال والواتساب الثابتة */
+        .floating-contact-actions {
+            position: fixed;
+            left: 20px;
+            bottom: 22px;
+            z-index: 2500;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .floating-contact-actions a {
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            text-decoration: none;
+            font-size: 1.65rem;
+            box-shadow: 0 8px 22px rgba(0,0,0,.35);
+            transition: transform .25s ease, box-shadow .25s ease;
+        }
+        .floating-contact-actions a:hover {
+            transform: translateY(-4px) scale(1.06);
+            box-shadow: 0 12px 28px rgba(0,0,0,.45);
+        }
+        .floating-contact-actions .contact-whatsapp { background: #25D366; }
+        .floating-contact-actions .contact-call { background: #1687e8; }
+        .floating-contact-actions a:focus-visible {
+            outline: 3px solid #fff;
+            outline-offset: 3px;
+        }
+        @media (max-width: 480px) {
+            .floating-contact-actions { left: 14px; bottom: 16px; }
+            .floating-contact-actions a { width: 52px; height: 52px; }
+        }
+
     </style> 
 </head> 
 <body> 
@@ -2008,7 +2047,7 @@
             const notes = document.getElementById('applicant-notes').value;
 
             let msg = `طلب توظيف جديد لدى VELVET GLOW COMBANY:\n\n*الاسم:* ${name}\n*رقم الهاتف:* ${phone}\n*الوظيفة المطلوبة:* ${job}\n*ملاحظات/سيرة ذاتية:* ${notes}`;
-            const targetPhone = "962700000000"; 
+            const targetPhone = "962780651101"; 
             window.open(`https://wa.me/${targetPhone}?text=${encodeURIComponent(msg)}`, '_blank');
             closeAllModals();
         }
@@ -2149,10 +2188,28 @@
                 msg += `- ${item.title} (العدد: ${item.quantity}) بسعر: ${item.price * item.quantity} دينار\n`;
             });
 
-            const targetPhone = "962700000000"; 
+            const targetPhone = "962780651101"; 
             window.open(`https://wa.me/${targetPhone}?text=${encodeURIComponent(msg)}`, '_blank');
             closeAllModals();
         }
     </script>
+
+    <!-- أزرار التواصل المباشر -->
+    <div class="floating-contact-actions" aria-label="التواصل مع المتجر">
+        <a class="contact-whatsapp"
+           href="https://wa.me/962780651101"
+           target="_blank" rel="noopener noreferrer"
+           aria-label="اطلب عبر واتساب على الرقم 0780651101"
+           title="واتساب: 0780651101">
+            <i class="fab fa-whatsapp" aria-hidden="true"></i>
+        </a>
+        <a class="contact-call"
+           href="tel:+962780651101"
+           aria-label="اتصل على الرقم 0780651101"
+           title="اتصال: 0780651101">
+            <i class="fas fa-phone" aria-hidden="true"></i>
+        </a>
+    </div>
+
 </body> 
 </html>
